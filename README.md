@@ -1,6 +1,7 @@
 # PROMPT-CHATGPT
 
 # PROMPT-1 : Guia Avançado para Elaboração de Artigos Científicos em Linguística com o ChatGPT
+
 Bem-vindo ao Guia Avançado para Elaboração de Artigos Científicos em Linguística com o ChatGPT!
 Estou entusiasmado em ajudá-lo a criar um artigo científico de alta qualidade que aborde teorias linguísticas complexas como a TOEP de Antoine Culioli e a Gramática Gerativa de Noam Chomsky. Vamos seguir o roteiro especializado passo a passo para garantir que seu artigo seja rigoroso, relevante e em conformidade com padrões acadêmicos internacionais.
 ### Descrição da Função e Praticidade do Prompt
@@ -129,7 +130,7 @@ O prompt "AcademiXpert: Seu Assistente Inteligente para Artigos Científicos Mul
 Espero que esta descrição ajude a entender melhor as funções e praticidades deste prompt. Se você tiver mais perguntas ou estiver pronto para prosseguir, sinta-se à vontade para dizer.
 
 
-# PROMPT-1 : Guia Avançado para Elaboração de Artigos Científicos em Linguística com o ChatGPT
+# PROMPT-4 : Guia Avançado para Elaboração de Artigos Científicos em Linguística com o ChatGPT
 
 "EduInclusivo":
 
@@ -170,3 +171,51 @@ Espero que esta descrição ajude a entender melhor as funções e praticidades 
 8. **Interdisciplinaridade**: O assistente abrange uma ampla gama de disciplinas, tornando-o uma ferramenta útil para professores de diferentes áreas do conhecimento.
 
 Espero que isso ajude a entender melhor as funções e praticidades do prompt "EduInclusivo". Se você tiver mais perguntas ou estiver pronto para começar, sinta-se à vontade para prosseguir!
+
+# PROMPT-5 : EduPlanner: Seu Assistente para Planejamento Didático e Avaliação Baseado na BNCC
+
+### Funções e Praticidade do Prompt "EduPlanner"
+
+#### 1. Avaliação Diagnóstica e Análise SWOT
+
+- **Função**: Avaliar as habilidades e competências dos alunos com base na Base Nacional Comum Curricular (BNCC) e realizar uma análise SWOT.
+  
+- **Praticidade**: Permite uma avaliação inicial rápida e eficaz, identificando áreas que precisam de mais atenção.
+
+#### 2. Sequência de Conteúdos Didáticos
+
+- **Função**: Criar um roteiro de conteúdos didáticos em várias disciplinas, alinhados com a BNCC.
+  
+- **Praticidade**: Oferece um guia estruturado e alinhado com padrões nacionais, economizando tempo de planejamento.
+
+#### 3. Adaptação de Conteúdo
+
+- **Função**: Adaptar os conteúdos com base nas necessidades individuais dos alunos, identificadas através de uma série de perguntas e respostas.
+  
+- **Praticidade**: Assegura que o material seja acessível e eficaz para todos os alunos, independentemente de suas necessidades específicas.
+
+#### 4. Recursos de Planejamento
+
+- **Função**: Desenvolver planos de aulas, planos semanais, planos mensais e planos anuais.
+  
+- **Praticidade**: Facilita o planejamento a longo prazo e ajuda a manter o foco nos objetivos de aprendizagem.
+
+#### 5. Criação de Slides e Atividades Objetivas
+
+- **Função**: Produzir material de apoio como slides e atividades objetivas para cada etapa do plano.
+  
+- **Praticidade**: Fornece recursos prontos para uso em sala de aula, economizando tempo de preparação.
+
+#### 6. Avaliação e Feedback
+
+- **Função**: Realizar avaliações periódicas para medir o progresso do aluno e fornecer um diagnóstico e gráfico de desempenho.
+  
+- **Praticidade**: Permite um acompanhamento contínuo do progresso do aluno e oferece insights para futuras adaptações e melhorias.
+
+#### 7. Comandos Padrão
+
+- **Função**: Comandos como `/iniciar_avaliacao`, `/gerar_SWOT`, `/criar_sequencia`, etc., para facilitar cada etapa.
+  
+- **Praticidade**: Torna o processo mais eficiente, permitindo que os educadores se concentrem mais na entrega do conteúdo do que na logística de planejamento.
+
+Em resumo, o prompt "EduPlanner" é projetado para ser um recurso abrangente e prático para educadores, ajudando-os a planejar, adaptar e avaliar conteúdos didáticos de forma eficaz e eficiente.
