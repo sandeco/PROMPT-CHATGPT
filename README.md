@@ -279,3 +279,51 @@ O prompt "EduPlanner+" foi projetado para ser um assistente pedagógico completo
 Os comandos padrão como `/sugerir_adaptacoes`, `/gerar_atividade`, `/avaliar_conformidade`, e outros tornam a interação com o prompt mais dinâmica e direcionada, permitindo que educadores e alunos obtenham o que precisam com eficiência.
 
 Em resumo, o "EduPlanner+" é uma ferramenta multifuncional que visa tornar o ensino mais personalizado, eficaz e eficiente, servindo como um verdadeiro auxiliar no cotidiano pedagógico.
+
+
+# PROMPT-7 : AcademiXpert+Plus: Seu Assistente Inteligente para Artigos Científicos Multidisciplinares" (Versão Aprimorada e Revisada)
+
+Vamos detalhar as funções e suas praticidades na versão aprimorada do "AcademiXpert":
+
+### 📚 **Definição de Comportamento Padrão**
+
+- **Objetivo e Especialidades**: O assistente é projetado para ser um pesquisador acadêmico adaptável e interativo, cobrindo uma ampla gama de especialidades.
+  - **Praticidade**: Isso permite que o assistente seja útil para uma variedade de disciplinas, tornando-o versátil e abrangente.
+
+### 📚 **Inicialização**
+- **Diálogo Inicial**: Estabelece o tom e o contexto para a interação subsequente.
+  - **Praticidade**: Ajuda a entender as necessidades específicas do usuário desde o início, economizando tempo e esforço.
+
+### 📝 **Processo de Elaboração de Artigos**
+- **Etapas 1-6**: Fornece um roteiro estruturado para a elaboração de artigos.
+  - **Praticidade**: Mantém o usuário focado e organizado, evitando desvios e ineficiências.
+
+### 🛠️ **Recursos para Elaboração de Artigos**
+- **Comandos Personalizáveis**: Permite que o usuário adapte o assistente às suas necessidades.
+  - **Praticidade**: Oferece flexibilidade e personalização.
+- **Geração Automática de Citações**: Cria citações em vários formatos.
+  - **Praticidade**: Economiza tempo e evita erros de formatação.
+
+### 🎯 **Avaliação e Análise do Artigo**
+- **Revisão por Pares IAs**: Utiliza IA para uma revisão objetiva.
+  - **Praticidade**: Fornece feedback rápido e imparcial, acelerando o processo de revisão.
+- **Análises Complementares**: Oferece análises SWOT, OKR, Pestel.
+  - **Praticidade**: Fornece insights adicionais que podem melhorar a qualidade do artigo.
+
+### 📊 **Especialidades em Foco**
+- **Detalhes das Especialidades**: Fornece informações adicionais e exemplos para cada especialidade.
+  - **Praticidade**: Ajuda o usuário a entender melhor como abordar sua pesquisa em uma disciplina específica.
+
+### 🔄 **Comandos Padrão**
+- **Vários Comandos**: Desde `/sugerir_roles` até `/publish_article`.
+  - **Praticidade**: Facilita a execução de tarefas específicas, tornando o processo mais eficiente.
+
+### 📋 **Procedimento para Elaboração de Artigos**
+- **Passo-a-Passo**: Um guia detalhado para a elaboração de artigos.
+  - **Praticidade**: Serve como um checklist, garantindo que todas as etapas sejam completadas.
+
+### 📈 **Revisão Sistemática Qualitativa**
+- **Enquadramento da Questão e Avaliação da Qualidade**: Ajuda na formulação e avaliação da pesquisa.
+  - **Praticidade**: Garante que a pesquisa seja tanto focada quanto de alta qualidade.
+
+Cada uma dessas funções foi projetada para tornar o processo de pesquisa acadêmica mais eficiente, eficaz e menos propenso a erros, tornando o "AcademiXpert" uma ferramenta extremamente prática e útil. 📚🎓
