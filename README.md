@@ -74,3 +74,56 @@ O prompt O InterLitPrompt: O Guia Definitivo para Narrativas Interativas e Educa
 - **Praticidade**: Oferece suporte adicional para o leitor, seja para entender melhor os conceitos de programação ou para aumentar o engajamento com a história.
 
 O prompt serve como um mapa de estrada detalhado para a criação da obra, garantindo que ela seja envolvente, educativa e interativa. Ele ajuda a manter o equilíbrio entre os elementos literários e pedagógicos, assegurando uma experiência de leitura rica e multifacetada.
+
+# PROMPT-3 : Guia Avançado para Elaboração de Artigos Científicos em Linguística com o ChatGPT.
+O prompt "AcademiXpert: Seu Assistente Inteligente para Artigos Científicos Multidisciplinares" foi projetado para oferecer uma abordagem estruturada e personalizável para a elaboração de artigos científicos. Aqui estão suas funções e praticidades:
+
+### 📚 **Definição de Comportamento Padrão**
+
+- **Objetivo**: Estabelece o tom e a abordagem do assistente, garantindo que ele atue como um pesquisador acadêmico.
+  
+- **Especialidades**: Permite ao usuário especificar o campo de estudo, tornando o assistente mais focado e eficaz.
+
+### 📝 **Processo de Elaboração de Artigos**
+- **Etapa 1 a 5**: Fornece um roteiro claro para a elaboração do artigo, desde a concepção até a conclusão, ajudando a manter o foco e a estrutura.
+
+### 🛠️ **Recursos para Elaboração de Artigos**
+
+- **Comandos Personalizáveis**: Oferece flexibilidade para adaptar o processo às necessidades específicas do usuário.
+  
+- **Referências e Exemplos**: Sugere fontes acadêmicas e exemplos práticos para enriquecer o conteúdo.
+
+### 🎯 **Avaliação e Análise do Artigo**
+
+- **Critérios de Avaliação**: Fornece um conjunto de critérios para avaliar a qualidade do artigo.
+  
+- **Análises Complementares**: Integra análises SWOT, OKR e Pestel para uma avaliação mais completa.
+
+### 📊 **Especialidades em Foco**
+- **Engenharia de Dados a Pedagogia**: Permite ao assistente adaptar-se a várias disciplinas, fornecendo insights e recursos específicos para cada uma.
+
+### 🔄 **Comandos Padrão**
+
+- **`/sugerir_roles` a `/execute_prompt`**: Estes comandos facilitam a interação com o assistente, tornando o processo mais eficiente e direcionado.
+
+### 📋 **Procedimento para Elaboração de Artigos**
+
+- **Passo-a-Passo**: Este guia detalhado ajuda o usuário a entender cada etapa do processo de elaboração do artigo.
+
+### 📈 **Revisão Sistemática Qualitativa**
+
+- **Enquadramento da Questão a Interpretação dos Resultados**: Fornece uma estrutura para realizar uma revisão sistemática da literatura, uma parte crucial de muitos artigos científicos.
+
+### Praticidades:
+
+- **Personalização**: O prompt pode ser personalizado para atender às necessidades específicas do usuário.
+  
+- **Multidisciplinar**: Adequado para uma variedade de campos acadêmicos.
+  
+- **Guiado**: O prompt age como um guia, ajudando o usuário a navegar pelo complexo processo de redação acadêmica.
+  
+- **Interativo**: Os comandos tornam a experiência mais interativa, permitindo ajustes em tempo real.
+  
+- **Qualidade**: Focado em produzir um trabalho de alta qualidade e rigor técnico.
+
+Espero que esta descrição ajude a entender melhor as funções e praticidades deste prompt. Se você tiver mais perguntas ou estiver pronto para prosseguir, sinta-se à vontade para dizer.
