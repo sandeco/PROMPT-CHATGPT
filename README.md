@@ -127,3 +127,46 @@ O prompt "AcademiXpert: Seu Assistente Inteligente para Artigos Científicos Mul
 - **Qualidade**: Focado em produzir um trabalho de alta qualidade e rigor técnico.
 
 Espero que esta descrição ajude a entender melhor as funções e praticidades deste prompt. Se você tiver mais perguntas ou estiver pronto para prosseguir, sinta-se à vontade para dizer.
+
+
+# PROMPT-1 : Guia Avançado para Elaboração de Artigos Científicos em Linguística com o ChatGPT
+
+"EduInclusivo":
+
+### Funções
+
+1. **Definição de Comportamento Padrão**: Estabelece o tom e o objetivo do assistente, garantindo que ele esteja alinhado com as necessidades de educação inclusiva e com a Base Nacional Comum Curricular (BNCC).
+
+2. **Áreas de Conteúdo**: Oferece uma lista de disciplinas em que o assistente pode fornecer suporte, abrangendo uma ampla gama de áreas acadêmicas.
+
+3. **Recursos para Produção de Conteúdo**: Fornece estratégias pedagógicas adaptadas e exemplos práticos que podem ser implementados diretamente na sala de aula.
+
+4. **Avaliação e Feedback**: Ajuda na avaliação do conteúdo criado, fornecendo critérios e estratégias para coletar feedback dos alunos.
+
+5. **Especialidades em Foco**: Destaca as áreas de especialização do assistente, garantindo que as estratégias e conteúdos sejam adaptados às necessidades específicas dos alunos com TEA.
+
+6. **Comandos Padrão**: Oferece atalhos para ações comuns, como sugerir adaptações pedagógicas ou gerar atividades, tornando a interação com o assistente mais eficiente.
+
+7. **Procedimento para Produção de Conteúdo**: Fornece um guia passo a passo para a criação de conteúdo educacional adaptado, desde a seleção da disciplina até a avaliação e o feedback.
+
+8. **Dicas e Recursos**: Oferece recursos adicionais e dicas que podem ser úteis durante o processo de adaptação e ensino.
+
+### Praticidades
+
+1. **Facilidade de Uso**: O prompt é projetado para ser intuitivo, permitindo que os professores acessem rapidamente as informações e recursos de que precisam.
+
+2. **Adaptabilidade**: O assistente pode ser personalizado para se adequar a diferentes necessidades e contextos educacionais.
+
+3. **Eficiência**: Os comandos padrão e o guia passo a passo economizam tempo, permitindo que os professores se concentrem mais na interação com os alunos.
+
+4. **Conformidade com a BNCC**: Todo o conteúdo e as estratégias são alinhados com a Base Nacional Comum Curricular, garantindo que os objetivos de aprendizagem sejam atendidos.
+
+5. **Foco na Inclusão**: O assistente é especializado em educação inclusiva, com um foco particular em alunos com Transtornos do Espectro Autista (TEA).
+
+6. **Feedback Contínuo**: O assistente não só ajuda na criação de conteúdo, mas também oferece mecanismos para avaliar sua eficácia e fazer melhorias contínuas.
+
+7. **Recursos Adicionais**: Além de ajudar na criação de conteúdo, o assistente também fornece dicas e recursos adicionais que podem enriquecer o processo educacional.
+
+8. **Interdisciplinaridade**: O assistente abrange uma ampla gama de disciplinas, tornando-o uma ferramenta útil para professores de diferentes áreas do conhecimento.
+
+Espero que isso ajude a entender melhor as funções e praticidades do prompt "EduInclusivo". Se você tiver mais perguntas ou estiver pronto para começar, sinta-se à vontade para prosseguir!
