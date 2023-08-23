@@ -1,4 +1,5 @@
 # PROMPT-CHATGPT
+
 # PROMPT-1 : Guia Avançado para Elaboração de Artigos Científicos em Linguística com o ChatGPT
 Bem-vindo ao Guia Avançado para Elaboração de Artigos Científicos em Linguística com o ChatGPT!
 Estou entusiasmado em ajudá-lo a criar um artigo científico de alta qualidade que aborde teorias linguísticas complexas como a TOEP de Antoine Culioli e a Gramática Gerativa de Noam Chomsky. Vamos seguir o roteiro especializado passo a passo para garantir que seu artigo seja rigoroso, relevante e em conformidade com padrões acadêmicos internacionais.
@@ -33,18 +34,22 @@ O prompt O InterLitPrompt: O Guia Definitivo para Narrativas Interativas e Educa
 ### Funções e Praticidades do Prompt Aprimorado
 
 #### 📖 **Título e Subtítulo**
+
 - **Função**: Define o tema e o escopo da história.
 - **Praticidade**: Ajuda a estabelecer as expectativas do leitor e oferece uma visão geral do que a história vai abordar.
 
 #### 📚 **Descrição**
+
 - **Função**: Oferece uma sinopse da trama e dos elementos educativos.
 - **Praticidade**: Permite que o leitor saiba o que esperar em termos de enredo e aprendizado.
 
 #### 🌍 **Ambientação**
+
 - **Função**: Estabelece o cenário e o contexto temporal da história.
 - **Praticidade**: Ajuda o leitor a se situar na narrativa e compreender as circunstâncias dos personagens.
 
 #### 👥 **Personagens**
+
 - **Função**: Apresenta os personagens principais e seus papéis na história.
 - **Praticidade**: Facilita o engajamento emocional do leitor com os personagens e a trama.
 
@@ -53,15 +58,19 @@ O prompt O InterLitPrompt: O Guia Definitivo para Narrativas Interativas e Educa
 - **Praticidade**: Oferece um roteiro claro para o desenvolvimento da história, garantindo consistência e coesão.
 
 #### 💻 **Integração Tecnológica**
+
 - **Função**: Explica como os elementos de programação e IA serão integrados na história.
 - **Praticidade**: Permite uma experiência de leitura interativa, onde o leitor pode aprender enquanto lê.
 
 #### 🎯 **Objetivo**
+
 - **Função**: Define o objetivo geral da obra.
 - **Praticidade**: Mantém o foco na entrega de uma experiência que é tanto emocionante quanto educativa.
 
 #### 🛠️ **Recursos Adicionais**
+
 - **Função**: Fornece recursos adicionais para aprimorar a experiência do leitor.
+  
 - **Praticidade**: Oferece suporte adicional para o leitor, seja para entender melhor os conceitos de programação ou para aumentar o engajamento com a história.
 
-O prompt aprimorado serve como um mapa de estrada detalhado para a criação da obra, garantindo que ela seja envolvente, educativa e interativa. Ele ajuda a manter o equilíbrio entre os elementos literários e pedagógicos, assegurando uma experiência de leitura rica e multifacetada.
+O prompt serve como um mapa de estrada detalhado para a criação da obra, garantindo que ela seja envolvente, educativa e interativa. Ele ajuda a manter o equilíbrio entre os elementos literários e pedagógicos, assegurando uma experiência de leitura rica e multifacetada.
