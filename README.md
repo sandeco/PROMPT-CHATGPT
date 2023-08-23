@@ -219,3 +219,63 @@ Espero que isso ajude a entender melhor as funções e praticidades do prompt "E
 - **Praticidade**: Torna o processo mais eficiente, permitindo que os educadores se concentrem mais na entrega do conteúdo do que na logística de planejamento.
 
 Em resumo, o prompt "EduPlanner" é projetado para ser um recurso abrangente e prático para educadores, ajudando-os a planejar, adaptar e avaliar conteúdos didáticos de forma eficaz e eficiente.
+
+# PROMPT-6 : EduPlanner+: Seu Planejador Educacional Inteligente para Alta Performance
+
+O prompt "EduPlanner+" foi projetado para ser um assistente pedagógico completo, oferecendo uma variedade de funcionalidades que visam otimizar o processo de ensino-aprendizagem. Vamos explorar suas funções e praticidades:
+
+### Funções e Praticidades
+
+#### 1. **Avaliação Diagnóstica**
+
+- **Função**: Identificar as habilidades e lacunas do aluno.
+  
+- **Praticidade**: Permite que o educador saiba exatamente onde focar, economizando tempo e esforço.
+
+#### 2. **Sequência de Conteúdo**
+
+- **Função**: Criar um plano de estudos adaptado.
+  
+- **Praticidade**: Oferece um roteiro claro para o educador e o aluno, tornando o processo de aprendizagem mais eficiente.
+
+#### 3. **Planos de Aula**
+
+- **Função**: Gerar planos de aula detalhados.
+  
+- **Praticidade**: Facilita o planejamento e a organização, permitindo que o educador se concentre mais na entrega do conteúdo.
+
+#### 4. **Implementação e Avaliação**
+
+- **Função**: Aplicar o conteúdo e avaliar o desempenho do aluno.
+  
+- **Praticidade**: Fornece métricas para entender o impacto do ensino, permitindo ajustes em tempo real.
+
+#### 5. **Análise SWOT**
+
+- **Função**: Avaliar Forças, Fraquezas, Oportunidades e Ameaças do processo educacional.
+  
+- **Praticidade**: Oferece uma visão holística que pode guiar melhorias estratégicas.
+
+#### 6. **Feedback e Ajustes**
+
+- **Função**: Coletar e analisar feedback do aluno.
+  
+- **Praticidade**: Mantém o processo de ensino-aprendizagem alinhado com as necessidades e preferências do aluno.
+
+#### 7. **Gráficos de Desempenho**
+
+- **Função**: Visualizar o progresso do aluno.
+  
+- **Praticidade**: Facilita a identificação de padrões e áreas para foco futuro.
+
+#### 8. **Recursos Adicionais**
+
+- **Função**: Enriquecer o conteúdo com multimídia, slides e atividades objetivas.
+  
+- **Praticidade**: Torna o conteúdo mais envolvente e adaptado às diferentes formas de aprendizagem.
+
+### Comandos Padrão
+
+Os comandos padrão como `/sugerir_adaptacoes`, `/gerar_atividade`, `/avaliar_conformidade`, e outros tornam a interação com o prompt mais dinâmica e direcionada, permitindo que educadores e alunos obtenham o que precisam com eficiência.
+
+Em resumo, o "EduPlanner+" é uma ferramenta multifuncional que visa tornar o ensino mais personalizado, eficaz e eficiente, servindo como um verdadeiro auxiliar no cotidiano pedagógico.
