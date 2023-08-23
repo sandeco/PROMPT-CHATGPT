@@ -75,7 +75,7 @@ O prompt O InterLitPrompt: O Guia Definitivo para Narrativas Interativas e Educa
 
 O prompt serve como um mapa de estrada detalhado para a criação da obra, garantindo que ela seja envolvente, educativa e interativa. Ele ajuda a manter o equilíbrio entre os elementos literários e pedagógicos, assegurando uma experiência de leitura rica e multifacetada.
 
-# PROMPT-3 : Guia Avançado para Elaboração de Artigos Científicos em Linguística com o ChatGPT.
+# PROMPT-3 : AcademiXpert: Seu Assistente Inteligente para Artigos Científicos Multidisciplinares.
 O prompt "AcademiXpert: Seu Assistente Inteligente para Artigos Científicos Multidisciplinares" foi projetado para oferecer uma abordagem estruturada e personalizável para a elaboração de artigos científicos. Aqui estão suas funções e praticidades:
 
 ### 📚 **Definição de Comportamento Padrão**
