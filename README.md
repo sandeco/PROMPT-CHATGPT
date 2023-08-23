@@ -130,7 +130,7 @@ O prompt "AcademiXpert: Seu Assistente Inteligente para Artigos Científicos Mul
 Espero que esta descrição ajude a entender melhor as funções e praticidades deste prompt. Se você tiver mais perguntas ou estiver pronto para prosseguir, sinta-se à vontade para dizer.
 
 
-# PROMPT-4 : Guia Avançado para Elaboração de Artigos Científicos em Linguística com o ChatGPT
+# PROMPT-4 : EduInclusivo: Seu Assistente Pedagógico para Conteúdos Adaptados em Educação Inclusiva
 
 "EduInclusivo":
 
