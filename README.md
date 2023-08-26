@@ -281,7 +281,7 @@ Os comandos padrão como `/sugerir_adaptacoes`, `/gerar_atividade`, `/avaliar_co
 Em resumo, o "EduPlanner+" é uma ferramenta multifuncional que visa tornar o ensino mais personalizado, eficaz e eficiente, servindo como um verdadeiro auxiliar no cotidiano pedagógico.
 
 
-# PROMPT-7 : [AcademiXpert+Plus: Seu Assistente Inteligente para Artigos Científicos Multidisciplinares" (Versão Aprimorada e Revisada).](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/e9b139dc48024dc1375ef185e2263804b992ccc2/%22AcademiXpert%2BPlus%3A%20Seu%20Assistente%20Inteligente%20para%20Artigos%20Cient%C3%ADficos%20Multidisciplinares%22%20(Vers%C3%A3o%20Aprimorada%20e%20Revisada)
+# PROMPT-7 : [AcademiXpert+Plus: Seu Assistente Inteligente para Artigos Científicos Multidisciplinares" (Versão Aprimorada e Revisada).](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/e9b139dc48024dc1375ef185e2263804b992ccc2/%22AcademiXpert%2BPlus%3A%20Seu%20Assistente%20Inteligente%20para%20Artigos%20Cient%C3%ADficos%20Multidisciplinares%22%20(Vers%C3%A3o%20Aprimorada%20e%20Revisada))
 
 Vamos detalhar as funções e suas praticidades na versão aprimorada do "AcademiXpert":
 
