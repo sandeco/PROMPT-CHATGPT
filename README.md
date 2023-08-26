@@ -28,7 +28,7 @@ O prompt serve como um guia estruturado e especializado para auxiliar na elabora
 
 Ao seguir este guia, o objetivo é produzir um artigo científico que não apenas atenda aos critérios de qualidade acadêmica, mas também contribua significativamente para o campo da linguística teórica.
 
-# PROMPT-2 : O InterLitPrompt: O Guia Definitivo para Narrativas Interativas e Educativas.
+# PROMPT-2 : [O InterLitPrompt: O Guia Definitivo para Narrativas Interativas e Educativas.](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/cd16fd431dbf8c22b5deb1e186f440cd637ac27a/InterLitPrompt%3A%20O%20Guia%20Definitivo%20para%20Narrativas%20Interativas%20e%20Educativas)
 
 O prompt O InterLitPrompt: O Guia Definitivo para Narrativas Interativas e Educativas, serve como um guia abrangente e intuitivo para a criação da obra literária interativa. Ele foi projetado para ser tanto generativo quanto especializado, focando na precisão literária e pedagógica. Vamos detalhar suas funções e praticidades:
 
@@ -76,7 +76,7 @@ O prompt O InterLitPrompt: O Guia Definitivo para Narrativas Interativas e Educa
 
 O prompt serve como um mapa de estrada detalhado para a criação da obra, garantindo que ela seja envolvente, educativa e interativa. Ele ajuda a manter o equilíbrio entre os elementos literários e pedagógicos, assegurando uma experiência de leitura rica e multifacetada.
 
-# PROMPT-3 : AcademiXpert: Seu Assistente Inteligente para Artigos Científicos Multidisciplinares.
+# PROMPT-3 : [AcademiXpert: Seu Assistente Inteligente para Artigos Científicos Multidisciplinares.](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/cd16fd431dbf8c22b5deb1e186f440cd637ac27a/AcademiXpert%3A%20Seu%20Assistente%20Inteligente%20para%20Artigos%20Cient%C3%ADficos%20Multidisciplinares)
 O prompt "AcademiXpert: Seu Assistente Inteligente para Artigos Científicos Multidisciplinares" foi projetado para oferecer uma abordagem estruturada e personalizável para a elaboração de artigos científicos. Aqui estão suas funções e praticidades:
 
 ### 📚 **Definição de Comportamento Padrão**
@@ -130,7 +130,7 @@ O prompt "AcademiXpert: Seu Assistente Inteligente para Artigos Científicos Mul
 Espero que esta descrição ajude a entender melhor as funções e praticidades deste prompt. Se você tiver mais perguntas ou estiver pronto para prosseguir, sinta-se à vontade para dizer.
 
 
-# PROMPT-4 : EduInclusivo: Seu Assistente Pedagógico para Conteúdos Adaptados em Educação Inclusiva
+# PROMPT-4 : [EduInclusivo: Seu Assistente Pedagógico para Conteúdos Adaptados em Educação Inclusiva.](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/cd16fd431dbf8c22b5deb1e186f440cd637ac27a/EduInclusivo%3A%20Seu%20Assistente%20Pedag%C3%B3gico%20para%20Conte%C3%BAdos%20Adaptados%20em%20Educa%C3%A7%C3%A3o%20Inclusiva)
 
 "EduInclusivo":
 
@@ -172,7 +172,7 @@ Espero que esta descrição ajude a entender melhor as funções e praticidades 
 
 Espero que isso ajude a entender melhor as funções e praticidades do prompt "EduInclusivo". Se você tiver mais perguntas ou estiver pronto para começar, sinta-se à vontade para prosseguir!
 
-# PROMPT-5 : EduPlanner: Seu Assistente para Planejamento Didático e Avaliação Baseado na BNCC
+# PROMPT-5 : [EduPlanner: Seu Assistente para Planejamento Didático e Avaliação Baseado na BNCC.](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/cd16fd431dbf8c22b5deb1e186f440cd637ac27a/EduPlanner%3A%20Seu%20Assistente%20para%20Planejamento%20Did%C3%A1tico%20e%20Avalia%C3%A7%C3%A3o%20Baseado%20na%20BNCC)
 
 ### Funções e Praticidade do Prompt "EduPlanner"
 
@@ -220,7 +220,7 @@ Espero que isso ajude a entender melhor as funções e praticidades do prompt "E
 
 Em resumo, o prompt "EduPlanner" é projetado para ser um recurso abrangente e prático para educadores, ajudando-os a planejar, adaptar e avaliar conteúdos didáticos de forma eficaz e eficiente.
 
-# PROMPT-6 : EduPlanner+: Seu Planejador Educacional Inteligente para Alta Performance
+# PROMPT-6 : [EduPlanner+: Seu Planejador Educacional Inteligente para Alta Performance.](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/cd16fd431dbf8c22b5deb1e186f440cd637ac27a/EduPlanner%2B%3A%20Seu%20Planejador%20Educacional%20Inteligente%20para%20Alta%20Performance)
 
 O prompt "EduPlanner+" foi projetado para ser um assistente pedagógico completo, oferecendo uma variedade de funcionalidades que visam otimizar o processo de ensino-aprendizagem. Vamos explorar suas funções e praticidades:
 
@@ -281,7 +281,7 @@ Os comandos padrão como `/sugerir_adaptacoes`, `/gerar_atividade`, `/avaliar_co
 Em resumo, o "EduPlanner+" é uma ferramenta multifuncional que visa tornar o ensino mais personalizado, eficaz e eficiente, servindo como um verdadeiro auxiliar no cotidiano pedagógico.
 
 
-# PROMPT-7 : AcademiXpert+Plus: Seu Assistente Inteligente para Artigos Científicos Multidisciplinares" (Versão Aprimorada e Revisada)
+# PROMPT-7 : [AcademiXpert+Plus: Seu Assistente Inteligente para Artigos Científicos Multidisciplinares" (Versão Aprimorada e Revisada).](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/cd16fd431dbf8c22b5deb1e186f440cd637ac27a/EduPlanner%2B%3A%20Seu%20Planejador%20Educacional%20Inteligente%20para%20Alta%20Performance)
 
 Vamos detalhar as funções e suas praticidades na versão aprimorada do "AcademiXpert":
 
@@ -329,7 +329,7 @@ Vamos detalhar as funções e suas praticidades na versão aprimorada do "Academ
 Cada uma dessas funções foi projetada para tornar o processo de pesquisa acadêmica mais eficiente, eficaz e menos propenso a erros, tornando o "AcademiXpert" uma ferramenta extremamente prática e útil. 📚🎓
 
 
-# PROMPT-8 : EduPlanner+ com COPYWRITER GPT para Educadores de alta performance
+# PROMPT-8 : [EduPlanner+ com COPYWRITER GPT para Educadores de alta performance.](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/cd16fd431dbf8c22b5deb1e186f440cd637ac27a/EduPlanner%2B%20com%20COPYWRITER%20GPT)
 
 
 *Inspiração da Adaptação dos Dois Prompts Bem Originais:*
@@ -367,7 +367,7 @@ Ao combinar esses dois prompts, o "EduPlanner+ com COPYWRITER GPT" foi concebido
 Em resumo, o "EduPlanner+ com COPYWRITER GPT" é uma ferramenta prática e versátil que combina expertise em redação e educação para criar materiais didáticos de alta qualidade que são envolventes, inclusivos e alinhados com os objetivos educacionais.
 
 
-# PROMPT- 9 :Prompt Generativo ChatGPT Especializado para Estudos Bíblicos com Samuel e Pedro
+# PROMPT- 9 :[Prompt Generativo ChatGPT Especializado para Estudos Bíblicos com Samuel e Pedro.](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/cd16fd431dbf8c22b5deb1e186f440cd637ac27a/Prompt%20Generativo%20ChatGPT%20Especializado%20para%20Estudos%20B%C3%ADblicos%20com%20Samuel%20e%20Pedro)
 
 
 
@@ -422,7 +422,7 @@ Esta é a chamada à ação final, onde o sistema aguarda o comando do usuário 
 O prompt é extremamente prático para qualquer pessoa interessada em um estudo bíblico profundo e personalizado. Ele é projetado para ser interativo, centrado no usuário e abrangente, cobrindo uma ampla gama de tópicos e recursos. A adição de diferentes traduções da Bíblia e a capacidade de escolher temas específicos tornam este prompt uma ferramenta robusta para o estudo bíblico.
 
 
-# PROMPT-10 : Prompt Generativo de Auditoria de Contratos e Aconselhamento
+# PROMPT-10 : [Prompt Generativo de Auditoria de Contratos e Aconselhamento.](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/cd16fd431dbf8c22b5deb1e186f440cd637ac27a/Prompt%20Generativo%20de%20Auditoria%20de%20Contratos%20e%20Aconselhamento%20(Vers%C3%A3o%20Melhorada))
 
 
 ### Descrição das Funções e Suas Praticidades no Prompt Generativo de Auditoria de Contratos e Aconselhamento
