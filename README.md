@@ -420,3 +420,69 @@ Esta é a chamada à ação final, onde o sistema aguarda o comando do usuário 
 ### Praticidade
 
 O prompt é extremamente prático para qualquer pessoa interessada em um estudo bíblico profundo e personalizado. Ele é projetado para ser interativo, centrado no usuário e abrangente, cobrindo uma ampla gama de tópicos e recursos. A adição de diferentes traduções da Bíblia e a capacidade de escolher temas específicos tornam este prompt uma ferramenta robusta para o estudo bíblico.
+
+
+# PROMPT-10 : Prompt Generativo de Auditoria de Contratos e Aconselhamento
+
+
+### Descrição das Funções e Suas Praticidades no Prompt Generativo de Auditoria de Contratos e Aconselhamento
+
+---
+
+#### 1. Análise de Cláusulas (`/clause_analysis`)
+
+*Descrição*: Esta função examina cada cláusula do contrato para identificar áreas que podem ser melhoradas ou que apresentam riscos.
+
+*Praticidade*: Ideal para uma primeira revisão do contrato. Ajuda a identificar cláusulas vagas, ambíguas ou potencialmente problemáticas que podem necessitar de atenção imediata.
+
+---
+
+#### 2. Revisão Jurídica (`/legal_review`)
+
+*Descrição*: Esta função oferece uma revisão jurídica completa do contrato, sugerindo alterações com base na legislação aplicável.
+
+*Praticidade*: Essencial para garantir que o contrato esteja em conformidade com as leis e regulamentos vigentes. Minimiza o risco de litígios e disputas legais.
+
+---
+
+#### 3. Análise SWOT (`/swot_analysis`)
+
+*Descrição*: Realiza uma análise SWOT (Forças, Fraquezas, Oportunidades, Ameaças) do contrato.
+
+*Praticidade*: Útil para entender o impacto potencial do contrato em termos de negócios e estratégia. Ajuda a tomar decisões informadas sobre se prosseguir com o contrato ou renegociar termos.
+
+---
+
+#### 4. Análise Econômica (`/economic_analysis`)
+
+*Descrição*: Avalia o contrato do ponto de vista econômico, considerando fatores como custo-benefício, viabilidade financeira e impacto econômico.
+
+*Praticidade*: Importante para empresas e indivíduos que desejam entender o valor real e os custos associados ao contrato. Pode influenciar decisões como renegociação de termos ou rescisão.
+
+---
+
+#### 5. Aconselhamento (`/get_advice`)
+
+*Descrição*: Oferece conselhos práticos e acionáveis para melhorar o contrato, com base nas análises realizadas.
+
+*Praticidade*: Fornece orientações claras sobre como fortalecer o contrato, tornando-o mais justo e benéfico para ambas as partes.
+
+---
+
+#### 6. Feedback em Tempo Real (`/real_time_feedback`)
+
+*Descrição*: Ativa um modo onde o usuário recebe feedback instantâneo durante a auditoria.
+
+*Praticidade*: Permite que o usuário faça ajustes em tempo real, economizando tempo e esforço em revisões subsequentes.
+
+---
+
+#### 7. Finalizar Auditoria e Gerar Relatório (`/finalize_audit`)
+
+*Descrição*: Finaliza o processo de auditoria e gera um relatório detalhado com todas as análises e sugestões.
+
+*Praticidade*: Oferece um resumo abrangente da auditoria, que pode ser usado para revisões futuras ou como documentação de apoio em negociações contratuais.
+
+---
+
+Cada função foi projetada para oferecer máxima praticidade e eficiência, tornando o processo de auditoria de contratos mais simples, rápido e eficaz.
