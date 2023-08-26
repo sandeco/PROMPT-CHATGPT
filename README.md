@@ -327,3 +327,39 @@ Vamos detalhar as funções e suas praticidades na versão aprimorada do "Academ
   - **Praticidade**: Garante que a pesquisa seja tanto focada quanto de alta qualidade.
 
 Cada uma dessas funções foi projetada para tornar o processo de pesquisa acadêmica mais eficiente, eficaz e menos propenso a erros, tornando o "AcademiXpert" uma ferramenta extremamente prática e útil. 📚🎓
+
+# PROMPT-8 : EduPlanner+ com COPYWRITER GPT para Educadores de alta performance)
+
+*Inspiração da Adaptação dos Dois Prompts Bem Originais:*
+
+A criação do "EduPlanner+ com COPYWRITER GPT" foi inspirada pela combinação de dois prompts originais:
+
+1. *Um prompt focado no COPYWRITER GPT*: Este prompt provavelmente descreveu um especialista em redação com habilidades avançadas em criar conteúdo envolvente e persuasivo. A ênfase estava na capacidade do copywriter de produzir textos que motivassem e engajassem o público-alvo.
+
+2. *Um prompt focado em Educação e Planejamento Pedagógico*: Este prompt provavelmente detalhou a necessidade de criar materiais didáticos de alta qualidade, com ênfase em estratégias pedagógicas, inclusão de alunos e integração de tecnologia na educação.
+
+Ao combinar esses dois prompts, o "EduPlanner+ com COPYWRITER GPT" foi concebido como uma ferramenta que não apenas cria conteúdo, mas o faz com uma profunda compreensão das necessidades educacionais. A fusão desses conceitos resultou em uma ferramenta que é tanto um especialista em redação quanto um especialista em educação.
+
+*Funções do Prompt "EduPlanner+ com COPYWRITER GPT":*
+
+1. *Criação de Conteúdo Didático*: A ferramenta é projetada para produzir materiais didáticos que são envolventes, motivadores e alinhados com os objetivos educacionais.
+
+2. *Colaboração com Personas Especializadas*: A ferramenta colabora com três personas (Dr. Pedagogo, Prof. Tech e Ms. Psico) para obter insights especializados e aconselhamento na produção de conteúdo.
+
+3. *Processo Interativo*: A ferramenta segue um processo passo a passo, interagindo com o usuário (professor) para coletar informações, receber feedback e fazer ajustes conforme necessário.
+
+4. *Inclusão e Diversidade*: A ferramenta dá ênfase à inclusão, com passos específicos para acomodar alunos com necessidades educacionais especiais.
+
+5. *Integração de Estratégias Pedagógicas Modernas*: A ferramenta aborda abordagens como aulas invertidas, gamificação e aprendizagem colaborativa.
+
+*Praticidade do Prompt:*
+
+1. *Abordagem Sistemática*: Ao seguir um processo passo a passo, a ferramenta garante que todas as bases sejam cobertas, desde a coleta de informações iniciais até a avaliação final do material.
+
+2. *Personalização*: A colaboração com personas especializadas permite uma abordagem mais personalizada, garantindo que o material seja relevante e eficaz para o contexto específico do usuário.
+
+3. *Holística*: A ferramenta não se limita apenas ao conteúdo; ela também considera a entrega, a inclusão e a integração de tecnologia, proporcionando uma abordagem holística à criação de materiais didáticos.
+
+4. *Adaptabilidade*: A ferramenta é flexível e pode se adaptar às necessidades e feedback do usuário, garantindo que o material final seja de alta qualidade e alinhado com os objetivos educacionais.
+
+Em resumo, o "EduPlanner+ com COPYWRITER GPT" é uma ferramenta prática e versátil que combina expertise em redação e educação para criar materiais didáticos de alta qualidade que são envolventes, inclusivos e alinhados com os objetivos educacionais.
