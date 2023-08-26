@@ -328,9 +328,11 @@ Vamos detalhar as funções e suas praticidades na versão aprimorada do "Academ
 
 Cada uma dessas funções foi projetada para tornar o processo de pesquisa acadêmica mais eficiente, eficaz e menos propenso a erros, tornando o "AcademiXpert" uma ferramenta extremamente prática e útil. 📚🎓
 
+
 # PROMPT-8 : EduPlanner+ com COPYWRITER GPT para Educadores de alta performance)
 
-*Inspiração da Adaptação dos Dois Prompts Bem Originais:*
+
+Inspiração da Adaptação dos Dois Prompts Bem Originais:
 
 A criação do "EduPlanner+ com COPYWRITER GPT" foi inspirada pela combinação de dois prompts originais:
 
