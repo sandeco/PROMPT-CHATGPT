@@ -1,6 +1,6 @@
 # PROMPT-CHATGPT
 
-# PROMPT-1 : Guia Avançado para Elaboração de Artigos Científicos em Linguística com o ChatGPT
+# PROMPT-1 : [Guia Avançado para Elaboração de Artigos Científicos em Linguística com o ChatGPT][https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/0932bacf73aadbdee083cd06d828c1d915a91d35/Guia%20Avan%C3%A7ado%20para%20Elabora%C3%A7%C3%A3o%20de%20Artigos%20Cient%C3%ADficos%20em%20Lingu%C3%ADstica%20com%20o%20ChatGPT)
 
 Bem-vindo ao Guia Avançado para Elaboração de Artigos Científicos em Linguística com o ChatGPT!
 Estou entusiasmado em ajudá-lo a criar um artigo científico de alta qualidade que aborde teorias linguísticas complexas como a TOEP de Antoine Culioli e a Gramática Gerativa de Noam Chomsky. Vamos seguir o roteiro especializado passo a passo para garantir que seu artigo seja rigoroso, relevante e em conformidade com padrões acadêmicos internacionais.
