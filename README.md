@@ -486,3 +486,37 @@ O prompt é extremamente prático para qualquer pessoa interessada em um estudo 
 ---
 
 Cada função foi projetada para oferecer máxima praticidade e eficiência, tornando o processo de auditoria de contratos mais simples, rápido e eficaz.
+
+# PROMPT-11 : [Prompt Generativo de Auditoria de Contratos e Aconselhamento.](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/a595852b6ed3b1ca8784d8b88d51517774b1ab9f/SciGuide%3A%20Orienta%C3%A7%C3%A3o%20Cient%C3%ADfica%20Multidisciplinar)
+
+Vou descrever as funções e praticidade deste prompt, bem como como os professores de metodologia científica podem usar o tema e o problema de pesquisa dos seus orientandos, crie para minha sobrinha, para ganhar tempo.
+
+### Funções e Praticidade do Prompt:
+
+1. *Guiar Passo a Passo*: O prompt é projetado para guiar cientistas multidisciplinares por cada etapa crucial do processo de pesquisa, desde a identificação do tema até a criação de um template para o conteúdo científico. Ele fornece instruções detalhadas para cada etapa, permitindo uma abordagem passo a passo.
+
+2. *Personalização*: O prompt permite que os usuários forneçam informações específicas, como o nível de experiência, o tema e o problema de pesquisa, que são então incorporados nas instruções subsequentes. Isso garante que a orientação seja relevante para o perfil individual do usuário.
+
+3. *Estrutura Detalhada*: O prompt detalha cada etapa do processo de pesquisa, incluindo análises SWOT e PESTEL, revisão bibliográfica, definição de objetivos e OKRs, escolha de metodologia, coleta de dados, cronograma e orçamento, entre outros. Isso ajuda a garantir que nenhum aspecto importante seja negligenciado.
+
+4. *Criação de Template Personalizado*: O prompt oferece a capacidade de gerar um template personalizado para diferentes tipos de conteúdo científico, como artigos científicos, projetos de pesquisa, teses, dissertações e ensaios científicos. Isso economiza tempo e ajuda os usuários a estruturarem seu conteúdo de maneira adequada.
+
+5. *Feedback e Sugestões em Tempo Real*: O prompt oferece a funcionalidade de receber feedback em tempo real, o que ajuda os usuários a fazerem ajustes e melhorias ao longo do processo. Isso é particularmente valioso para garantir a qualidade do projeto.
+
+### Uso por Professores de Metodologia Científica:
+
+Os professores de metodologia científica podem aproveitar o tema e o problema de pesquisa fornecidos pelos seus orientandos de várias maneiras:
+
+1. *Avaliação Inicial*: Os professores podem revisar os temas e problemas de pesquisa propostos pelos orientandos para avaliar a relevância, originalidade e clareza. Isso ajuda a garantir que os projetos de pesquisa tenham uma base sólida desde o início.
+
+2. *Orientação Personalizada*: Com base nos temas e problemas de pesquisa escolhidos pelos orientandos, os professores podem fornecer orientações específicas para cada projeto. Isso pode incluir sugestões para aprofundar a pesquisa, explorar diferentes metodologias ou ajustar os objetivos.
+
+3. *Acompanhamento e Feedback Contínuos*: Ao longo do processo de pesquisa, os professores podem acompanhar o progresso dos orientandos e oferecer feedback contínuo. Isso ajuda a evitar desvios e a garantir que o projeto esteja avançando na direção certa.
+
+4. *Identificação de Recursos*: Com base nos temas de pesquisa, os professores podem sugerir fontes de referência relevantes, artigos científicos e plataformas de pesquisa. Isso auxilia os orientandos na coleta de informações necessárias.
+
+5. *Preparação para Apresentações*: Os professores podem ajudar os orientandos a preparar apresentações sobre seus temas e problemas de pesquisa, auxiliando na criação de slides e no desenvolvimento da narrativa.
+
+6. *Avaliação Final*: Quando os projetos de pesquisa estiverem concluídos, os professores podem avaliar o alinhamento entre o conteúdo do projeto e o tema e problema de pesquisa iniciais. Isso ajuda a verificar se o projeto atingiu seus objetivos.
+
+Em resumo, o tema e o problema de pesquisa fornecidos pelo prompt são ferramentas valiosas para os professores de metodologia científica guiarem seus orientandos por um processo estruturado e bem-informado de pesquisa. Isso ajuda a garantir que os projetos sejam bem-sucedidos e contribuam para o avanço do conhecimento em suas respectivas áreas.
