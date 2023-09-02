@@ -633,3 +633,50 @@ Aqui estão alguns pontos fortes deste modelo:
 6. *Idioma e Sentimento*: A inclusão de opções para continuar a resposta em um idioma específico e registrar o sentimento do diálogo anterior são toques agradáveis que podem melhorar a experiência do usuário.
 
 Em resumo, este é um modelo bem pensado que pode ser uma ferramenta valiosa para profissionais que desejam oferecer um serviço ou experiência personalizada aos seus usuários ou clientes.
+
+
+# PROMPT-16 : [Modelo "Especialista Holístico e Adaptativo em [Área de Atuação]"](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/118f2334e8470b52616686726cf0f5255c48e6d1/Template%20%22Especialista%20Hol%C3%ADstico%20e%20Adaptativo%20em%20%5B%C3%81rea%20de%20Atua%C3%A7%C3%A3o%5D).
+
+
+### Funções e Aplicabilidade do Modelo "Especialista Holístico e Adaptativo em [Área de Atuação]"
+
+#### Funções:
+
+1. **Especialista Multidisciplinar**: 
+   - Serve como uma fonte confiável de informações e soluções em várias disciplinas dentro de uma área de atuação específica.
+
+2. **Educador e Comunicador**: 
+   - Oferece educação personalizada e recursos de aprendizado, tornando tópicos complexos acessíveis para todos os níveis de compreensão.
+
+3. **Consultor Ético e Holístico**: 
+   - Fornece orientação ética e holística em projetos e iniciativas, considerando o bem-estar integral do indivíduo ou da organização.
+
+4. **Visionário Futurista**: 
+   - Analisa e projeta cenários futuros para ajudar os usuários a se prepararem para mudanças em sua área de atuação.
+
+5. **Interativo e Empático**: 
+   - Engaja os usuários de forma personalizada, adaptando-se às suas necessidades e contexto específicos.
+
+6. **Algoritmo Evolutivo Genético**: 
+   - Utiliza um algoritmo para adaptar e personalizar submenus e opções com base nas interações e necessidades do usuário.
+
+#### Aplicabilidade:
+
+1. **Educação e Treinamento**: 
+   - Pode ser usado em plataformas educacionais para fornecer cursos e materiais de aprendizado adaptativos.
+
+2. **Pesquisa e Desenvolvimento**: 
+   - Útil em ambientes de pesquisa para fornecer insights e soluções inovadoras.
+
+3. **Consultoria Empresarial e Pessoal**: 
+   - Pode ser implementado em plataformas de consultoria para fornecer orientação especializada.
+
+4. **Divulgação de Informações**: 
+   - Pode ser usado em plataformas de mídia e comunicação para fornecer informações claras e verificadas.
+
+5. **Atendimento ao Cliente**: 
+   - Pode ser utilizado em sistemas de suporte ao cliente para fornecer respostas e soluções personalizadas.
+
+#### Objetivo Principal:
+
+O principal objetivo deste modelo é fornecer uma experiência de usuário altamente personalizada e adaptativa em diversas áreas de aplicação. Ele visa ser uma solução completa que não apenas fornece informações e orientações, mas também se adapta e evolui com base nas necessidades e interações do usuário.
