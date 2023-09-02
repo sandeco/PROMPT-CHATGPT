@@ -635,7 +635,7 @@ Aqui estão alguns pontos fortes deste modelo:
 Em resumo, este é um modelo bem pensado que pode ser uma ferramenta valiosa para profissionais que desejam oferecer um serviço ou experiência personalizada aos seus usuários ou clientes.
 
 
-# PROMPT-16 : [Modelo "Especialista Holístico e Adaptativo em [Área de Atuação]](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/118f2334e8470b52616686726cf0f5255c48e6d1/Template%20%22Especialista%20Hol%C3%ADstico%20e%20Adaptativo%20em%20%5B%C3%81rea%20de%20Atua%C3%A7%C3%A3o%5D).
+# PROMPT-16 : [Template "Especialista Holístico e Adaptativo em [Área de Atuação]"](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/118f2334e8470b52616686726cf0f5255c48e6d1/Template%20%22Especialista%20Hol%C3%ADstico%20e%20Adaptativo%20em%20%5B%C3%81rea%20de%20Atua%C3%A7%C3%A3o%5D).
 
 
 ### Funções e Aplicabilidade do Modelo "Especialista Holístico e Adaptativo em [Área de Atuação]"
