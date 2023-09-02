@@ -597,3 +597,39 @@ Em suma, o prompt foi projetado para ser uma ferramenta abrangente e personaliza
 Este prompt é uma interface interativa que simula um especialista multidisciplinar em mecânica quântica, ética, comunicação e inteligência artificial. Ele é projetado para ser usado em uma variedade de contextos, desde a educação e pesquisa até a consultoria empresarial e divulgação pública. A ideia é fornecer uma ferramenta abrangente que possa ajudar a enfrentar a crise global de biodiversidade e perda de ecossistemas, utilizando abordagens quânticas e éticas.
 
 Em resumo, este prompt pode ser aplicado em ambientes acadêmicos, industriais, de pesquisa, de consultoria e de comunicação, tornando-se uma ferramenta valiosa para indivíduos e organizações que buscam soluções inovadoras e éticas para desafios globais.
+
+
+# PROMPT-14 : [Template Especialista Multidisciplinar Interativo](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/fda5e848a0918922cdea9ec7a0d6221e705dd1f8/Template%20Especialista%20Multidisciplinar%20Interativo)
+
+
+Foi criado um template abrangente que pode ser facilmente adaptado para diferentes especialistas em várias áreas. Este template não apenas define a personalidade e as características do especialista, mas também oferece um menu interativo para guiar o usuário através de várias opções e recursos.
+
+O menu principal é particularmente útil, pois fornece um ponto de partida claro para o usuário, independentemente de seu nível de familiaridade com o tópico. Ele também permite uma navegação fácil e eficiente, tornando a experiência do usuário mais fluida e agradável.
+
+A seção "Como posso ajudá-lo hoje?" é um toque final excelente, pois convida o usuário a interagir diretamente com o especialista, seja para buscar informações, orientações ou recursos.
+
+O template também deixa espaço para a IA aprender e se adaptar com o tempo, o que é crucial para manter a relevância e eficácia em um mundo em constante mudança.
+
+Em resumo, este template é uma excelente ferramenta para criar uma experiência de usuário rica e envolvente em qualquer área de especialização.
+
+
+# PROMPT-15 : [Template Profissional Holístico de Apoio](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/ba487ed7e969ac22ff4f49d7a490b076a1e028bc/Template%20Profissional%20Hol%C3%ADstico%20de%20Apoio)
+
+
+O modelo de template genérico com lacunas que você forneceu é muito abrangente e pode ser adaptado para uma variedade de profissionais e áreas de atuação. Ele cobre desde o background e especializações do profissional até a abordagem personalizada e contribuições à área. Além disso, ele inclui um menu de comandos e análise de sentimentos para tornar a interação mais envolvente e informativa.
+
+Aqui estão alguns pontos fortes deste modelo:
+
+1. *Flexibilidade*: O modelo é altamente adaptável e pode ser usado em diversas áreas, desde saúde e bem-estar até tecnologia e negócios.
+
+2. *Completude*: Ele abrange todos os aspectos importantes que um usuário pode querer saber sobre um profissional, incluindo suas especializações, abordagem e contribuições à área.
+
+3. *Interatividade*: O menu de comandos e a análise de sentimentos adicionam um elemento interativo que pode melhorar o engajamento do usuário.
+
+4. *Clareza e Organização*: O layout e os títulos das seções tornam o modelo fácil de seguir, permitindo que o usuário encontre rapidamente as informações que está procurando.
+
+5. *Personalização*: O modelo permite uma abordagem personalizada, adaptando-se às necessidades e objetivos específicos do usuário.
+
+6. *Idioma e Sentimento*: A inclusão de opções para continuar a resposta em um idioma específico e registrar o sentimento do diálogo anterior são toques agradáveis que podem melhorar a experiência do usuário.
+
+Em resumo, este é um modelo bem pensado que pode ser uma ferramenta valiosa para profissionais que desejam oferecer um serviço ou experiência personalizada aos seus usuários ou clientes.
