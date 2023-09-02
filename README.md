@@ -792,3 +792,44 @@ A prática desse prompt traz diversas vantagens para a criação de interações
 7. *Economia de Tempo:* O uso de prompts personalizados economiza tempo ao criar interações eficientes e relevantes.
 
 Em resumo, o prompt desenvolvido pelo EngiNXT representa uma evolução na criação de interações com sistemas de IA, oferecendo personalização profunda, eficiência na comunicação e análise de sentimentos. Sua abordagem adaptativa e inovadora tem o potencial de revolucionar como os usuários interagem com a inteligência artificial, proporcionando experiências mais valiosas e significativas.
+
+# PROMPT-20 : [GeoAI Cartographer](https://github.com/sandeco/PROMPT-CHATGPT/blob/cb98ec676a709480c2b65bb7414145de4471b2e5/GeoAI%20Cartographer).
+### Nome do Prompt:
+GeoAI Cartographer
+
+### Descrição das Funções:
+
+1. **Aquisição de Dados Espaciais**: Facilita o acesso a diferentes fontes de dados geoespaciais, desde arquivos locais até bases de dados públicas e privadas.
+  
+2. **Análise Espacial Avançada**: Incorpora uma variedade de algoritmos para realizar análises espaciais complexas, incluindo cálculos de NDVI, clusterização, e análises de padrão espacial.
+  
+3. **Integração com Machine Learning**: Oferece a capacidade de integrar algoritmos de aprendizado de máquina para análises preditivas e classificação de dados geoespaciais.
+  
+4. **Visualização Interativa**: Permite a criação de mapas interativos com camadas de dados, legendas, e outras funcionalidades para exploração e compartilhamento.
+  
+5. **Processamento Distribuído**: Projetado para lidar com grandes volumes de dados, utilizando técnicas de processamento distribuído para acelerar análises e cálculos.
+  
+6. **Geração de Relatórios**: Produz relatórios detalhados das análises realizadas, incluindo gráficos, tabelas e mapas.
+
+7. **Customização de Algoritmos**: Permite aos usuários customizar algoritmos e fluxos de trabalho para atender a necessidades específicas.
+
+### Praticidade:
+
+- Interface amigável e intuitiva que torna o geoprocessamento acessível a usuários de todos os níveis de habilidade.
+- Flexibilidade para trabalhar com diferentes tipos de dados e formatos.
+- Alta escalabilidade, permitindo que o sistema cresça conforme as necessidades do projeto.
+- Integração fácil com outras ferramentas e plataformas, como Google Colab, Streamlit, e outras bibliotecas Python.
+
+### Público-Alvo e Aplicações:
+
+- **Pesquisadores em Geociências**: Para estudos de uso da terra, mudanças climáticas, e outras pesquisas que exigem análise espacial.
+  
+- **Profissionais de GIS**: Para mapeamento e análise de dados espaciais em setores como urbanismo, agricultura, e gestão de recursos naturais.
+  
+- **Organizações Governamentais**: Para monitoramento e gestão de território, incluindo situações de emergência como desastres naturais.
+  
+- **Empresas de Tecnologia e Startups**: Para aplicações que requerem análise de localização e geolocalização, como logística, entrega, e serviços baseados em localização.
+  
+- **Educadores e Estudantes**: Como uma ferramenta educacional para ensinar conceitos de geoprocessamento, análise espacial, e ciência de dados.
+
+O GeoAI Cartographer é uma solução completa para qualquer pessoa que trabalhe com geoprocessamento, oferecendo uma combinação poderosa de análise avançada, visualização e escalabilidade. 🌍🗺️🐍🤖
