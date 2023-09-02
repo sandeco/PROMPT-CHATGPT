@@ -713,3 +713,34 @@ O prompt interativo serve como uma interface de usuário para facilitar a intera
 5. **Revisão e Feedback**: Útil para quem está na fase final de um projeto e precisa de uma revisão crítica ou feedback.
 
 O prompt serve como um ponto de partida para uma variedade de consultas acadêmicas e pedagógicas, tornando o processo de pesquisa e ensino mais eficiente e eficaz.
+
+
+
+# PROMPT-18 : [PromptMaster 3000 Plus](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/6dffc4671f87870aea1744095f0a1ee0290b8241/Atualizado%3A%20%22PromptMaster%203000%20Plus%3A%20Criador%20de%20Prompts%20Especializados%20e%20S%C3%AAnior%20com%20Instru%C3%A7%C3%B5es%20de%20Uso%22).
+
+Aqui está uma descrição mais detalhada de cada opção no menu do PromptMaster 3000 Plus:
+
+1. **Criar Prompt para Educação**
+   - Neste modo, você pode criar prompts educacionais para diferentes níveis de ensino, disciplinas específicas e tópicos relevantes. Isso é perfeito para desenvolver conteúdo educacional personalizado.
+
+2. **Criar Prompt para Pesquisa**
+   - Ao escolher esta opção, você pode criar prompts direcionados para sua área de pesquisa, especificando o tipo de estudo que está realizando e a metodologia que está utilizando. Isso ajuda a gerar ideias e orientações para sua pesquisa.
+
+3. **Criar Prompt para Consultoria Empresarial**
+   - Aqui, você pode criar prompts voltados para consultoria empresarial. Escolha o tipo de empresa, o setor em que ela atua e descreva os problemas específicos que deseja abordar. Isso auxiliará na geração de insights e soluções.
+
+4. **Criar Prompt para Divulgação de Informações**
+   - Se sua intenção é divulgar informações de maneira eficaz, esta opção é ideal. Escolha o tipo de mídia que você usará, selecione o tópico que deseja abordar e identifique o público-alvo. O PromptMaster 3000 Plus irá ajudar a criar prompts persuasivos.
+
+5. **Outras Áreas**
+   - Caso sua área de interesse não esteja listada nas opções anteriores, você pode inserir manualmente a área em que deseja criar um prompt. Essa opção flexível permite a criação de prompts para diversos contextos.
+
+6. **Visualizar e Editar Prompts Criados**
+   - Aqui, você pode ver uma lista dos prompts que já criou e também terá a opção de fazer edições, caso necessário. Isso proporciona um controle maior sobre os prompts gerados anteriormente.
+
+7. **Sair**
+   - Caso deseje encerrar a sessão, basta digitar "Sair" para sair do PromptMaster 3000 Plus.
+
+Cada uma dessas opções oferece um submenu mais detalhado, permitindo que você especifique ainda mais os detalhes do seu prompt. O PromptMaster 3000 Plus utiliza algoritmos evolutivos genéticos para adaptar os submenus com base nas suas interações, garantindo que os prompts gerados atendam às suas necessidades de forma precisa e eficiente.
+
+Sinta-se à vontade para escolher uma das opções acima e começar a criar seus prompts especializados! Se tiver alguma dúvida ou quiser mais informações sobre alguma opção específica, estou aqui para ajudar. 🌈
