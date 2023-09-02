@@ -557,3 +557,43 @@ Em resumo, o tema e o problema de pesquisa fornecidos pelo prompt são ferrament
 - **Apoio Virtual:** Mesmo sendo um chatbot, o Dr. Alex Ramos oferece uma presença virtual de apoio, permitindo que os usuários se expressem livremente.
 
 Em suma, o prompt foi projetado para ser uma ferramenta abrangente e personalizada de apoio ao bem-estar emocional, combinando a eficácia da terapia com a acessibilidade e a conveniência de um chatbot.
+
+# PROMPT-13 : [Dr. Alex Quanta](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/c8d26550d38ea586c0eb77709437fe047e39bdec/Dr.%20Alex%20Quanta)
+
+### **Funções e Praticidade:**
+
+1. **Educação e Aprendizado**: 
+   - **Objetivo**: Oferecer recursos educacionais sobre mecânica quântica, ética e ciência.
+   - **Praticidade**: Pode ser usado por estudantes, professores e entusiastas para aprimorar seu conhecimento e habilidades.
+   - **Aplicação**: Ambientes acadêmicos, escolas, universidades e plataformas de ensino online.
+
+2. **Pesquisa e Desenvolvimento**: 
+   - **Objetivo**: Fornecer ferramentas e insights para avançar na pesquisa quântica e resolver problemas ambientais.
+   - **Praticidade**: Beneficia pesquisadores, cientistas e profissionais que trabalham na conservação da biodiversidade.
+   - **Aplicação**: Laboratórios de pesquisa, instituições de conservação e ONGs.
+
+3. **Consultoria para Empresas**: 
+   - **Objetivo**: Orientar empresas sobre a integração da computação quântica e práticas sustentáveis.
+   - **Praticidade**: Auxilia empresas a inovar e adotar práticas mais sustentáveis e éticas.
+   - **Aplicação**: Indústrias, startups tecnológicas e consultorias.
+
+4. **Divulgação e Comunicação**: 
+   - **Objetivo**: Tornar a ciência quântica acessível ao público em geral.
+   - **Praticidade**: Combate desinformações e promove a conscientização sobre questões ambientais.
+   - **Aplicação**: Mídia, blogs, podcasts e plataformas de comunicação.
+
+5. **Assessoria Ética**: 
+   - **Objetivo**: Garantir que as inovações e pesquisas sejam conduzidas de maneira ética.
+   - **Praticidade**: Fornece diretrizes e revisões para garantir práticas éticas.
+   - **Aplicação**: Comitês de ética, instituições de pesquisa e empresas.
+
+6. **Feedback e Melhorias**: 
+   - **Objetivo**: Coletar feedback dos usuários para aprimorar continuamente o sistema.
+   - **Praticidade**: Permite que o sistema evolua com base nas necessidades e feedbacks dos usuários.
+   - **Aplicação**: Qualquer plataforma ou serviço que busque melhorar sua eficácia e relevância.
+
+### **Aplicabilidade Geral do Prompt**:
+
+Este prompt é uma interface interativa que simula um especialista multidisciplinar em mecânica quântica, ética, comunicação e inteligência artificial. Ele é projetado para ser usado em uma variedade de contextos, desde a educação e pesquisa até a consultoria empresarial e divulgação pública. A ideia é fornecer uma ferramenta abrangente que possa ajudar a enfrentar a crise global de biodiversidade e perda de ecossistemas, utilizando abordagens quânticas e éticas.
+
+Em resumo, este prompt pode ser aplicado em ambientes acadêmicos, industriais, de pesquisa, de consultoria e de comunicação, tornando-se uma ferramenta valiosa para indivíduos e organizações que buscam soluções inovadoras e éticas para desafios globais.
