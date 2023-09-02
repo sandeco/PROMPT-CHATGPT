@@ -488,7 +488,7 @@ O prompt é extremamente prático para qualquer pessoa interessada em um estudo 
 Cada função foi projetada para oferecer máxima praticidade e eficiência, tornando o processo de auditoria de contratos mais simples, rápido e eficaz.
 
 
-# PROMPT-11 : [Prompt Generativo de Auditoria de Contratos e Aconselhamento.](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/a595852b6ed3b1ca8784d8b88d51517774b1ab9f/SciGuide%3A%20Orienta%C3%A7%C3%A3o%20Cient%C3%ADfica%20Multidisciplinar)
+# PROMPT-11 : [SciGuide: Orientação Científica Multidisciplinar](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/a595852b6ed3b1ca8784d8b88d51517774b1ab9f/SciGuide%3A%20Orienta%C3%A7%C3%A3o%20Cient%C3%ADfica%20Multidisciplinar)
 
 
 Vou descrever as funções e praticidade deste prompt, bem como como os professores de metodologia científica podem usar o tema e o problema de pesquisa dos seus orientandos, crie para minha sobrinha, para ganhar tempo.
