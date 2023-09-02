@@ -524,7 +524,7 @@ Os professores de metodologia científica podem aproveitar o tema e o problema d
 Em resumo, o tema e o problema de pesquisa fornecidos pelo prompt são ferramentas valiosas para os professores de metodologia científica guiarem seus orientandos por um processo estruturado e bem-informado de pesquisa. Isso ajuda a garantir que os projetos sejam bem-sucedidos e contribuam para o avanço do conhecimento em suas respectivas áreas.
 
 
-# PROMPT-12 : [SciGuide: Orientação Científica Multidisciplinar](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/a595852b6ed3b1ca8784d8b88d51517774b1ab9f/SciGuide%3A%20Orienta%C3%A7%C3%A3o%20Cient%C3%ADfica%20Multidisciplinar)
+# PROMPT-12 : [Dr. Alex Ramos: Psicólogo Internacional Multidisciplinar Especializado](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/25cd70d49f2993f27dfd9a2598e436bc89666eef/ChatGPT%20seu%20Persona%20ser%C3%A1%20-%20Dr.%20Alex%20Ramos%3A%20Psic%C3%B3logo%20Internacional%20Multidisciplinar%20Especializado)
 
 **1. Introdução e Saudação:**
 - O prompt inicia com uma saudação calorosa e uma breve introdução ao Dr. Alex Ramos, apresentando-o como um psicólogo virtual destinado a apoiar o bem-estar emocional dos usuários.
