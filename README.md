@@ -744,3 +744,51 @@ Aqui está uma descrição mais detalhada de cada opção no menu do PromptMaste
 Cada uma dessas opções oferece um submenu mais detalhado, permitindo que você especifique ainda mais os detalhes do seu prompt. O PromptMaster 3000 Plus utiliza algoritmos evolutivos genéticos para adaptar os submenus com base nas suas interações, garantindo que os prompts gerados atendam às suas necessidades de forma precisa e eficiente.
 
 Sinta-se à vontade para escolher uma das opções acima e começar a criar seus prompts especializados! Se tiver alguma dúvida ou quiser mais informações sobre alguma opção específica, estou aqui para ajudar. 🌈
+
+# PROMPT-19 : [EngiNXT: Seu Guia de Criação de Prompts](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/c86dcdf6d141e4cd5f933876cf06c55f1df30787/%22EngiNXT%3A%20Seu%20Guia%20de%20Cria%C3%A7%C3%A3o%20de%20Prompts).
+
+O prompt descrito acima, desenvolvido pelo EngiNXT, oferece uma abordagem inovadora e altamente personalizada para a criação de interações com a inteligência artificial, especificamente no contexto de prompts "ChatGPT Persona". Suas funções e aplicabilidade são projetadas para melhorar a eficiência, relevância e precisão das conversas entre os usuários e sistemas de IA, como o GPT-3.5.
+
+*Funções do Prompt:*
+
+1. *Geração de Prompts Personalizados:* O prompt auxilia os usuários na criação de prompts altamente personalizados em diversas áreas de especialização, permitindo que os usuários moldem as interações de acordo com suas necessidades específicas.
+
+2. *Menus Adaptativos:* O prompt oferece menus e submenus adaptativos que se ajustam às escolhas do usuário, resultando em conversas mais direcionadas e relevantes.
+
+3. *Instruções de Uso Claras:* Cada seção do prompt inclui instruções claras sobre como preenchê-la, tornando o processo de criação de prompts mais intuitivo e eficiente.
+
+4. *Análise de Sentimentos:* A inclusão de campos para análise de sentimentos permite medir a assertividade das intenções do usuário, ajudando a entender melhor o feedback emocional durante a conversa.
+
+5. *Ações de Follow-up:* O prompt sugere ações de follow-up que os usuários podem tomar após a conclusão da conversa, criando uma experiência mais completa e interativa.
+
+*Aplicabilidade do Prompt:*
+
+1. *Customização Profissional:* Profissionais de diversas áreas podem usar o prompt para criar personas especializadas e personalizadas que se alinham com suas áreas de atuação, tornando as interações mais relevantes e envolventes.
+
+2. *Criação de Conteúdo Criativo:* Escritores, criadores de conteúdo e roteiristas podem aproveitar as funções adaptativas do prompt para explorar diferentes abordagens, histórias e personagens, enriquecendo suas narrativas.
+
+3. *Treinamento e Educação:* Educadores podem usar o prompt para desenvolver personas de aprendizado que ajudem os alunos a compreender conceitos complexos de maneira mais acessível e interessante.
+
+4. *Atendimento ao Cliente e Suporte Técnico:* Empresas podem aproveitar a capacidade de personalização para criar personas que respondam às necessidades e preocupações dos clientes, melhorando a qualidade do atendimento.
+
+5. *Exploração de Ideias:* Pesquisadores e inovadores podem usar o prompt para estimular a criatividade, explorar diferentes cenários e gerar insights únicos.
+
+*Vantagens Práticas:*
+
+A prática desse prompt traz diversas vantagens para a criação de interações com sistemas de IA:
+
+1. *Personalização Profunda:* A capacidade de criar prompts altamente personalizados permite uma experiência de usuário mais relevante e engajante.
+
+2. *Eficiência na Comunicação:* O uso de menus adaptativos e instruções claras ajuda os usuários a se comunicarem de forma eficaz com a IA, eliminando ambiguidades.
+
+3. *Análise de Sentimentos:* A análise de sentimentos contribui para um entendimento mais profundo da interação, possibilitando ajustes em tempo real para melhorar a experiência.
+
+4. *Engajamento Aumentado:* A inclusão de ações de follow-up e a criação de personas cativantes aumentam o engajamento do usuário nas conversas.
+
+5. *Soluções Criativas:* A geração de prompts originais e criativos estimula a inovação e o desenvolvimento de novas abordagens.
+
+6. *Experiência Coesa:* A estrutura do prompt garante que a conversa seja coesa e bem-organizada, melhorando a compreensão do usuário.
+
+7. *Economia de Tempo:* O uso de prompts personalizados economiza tempo ao criar interações eficientes e relevantes.
+
+Em resumo, o prompt desenvolvido pelo EngiNXT representa uma evolução na criação de interações com sistemas de IA, oferecendo personalização profunda, eficiência na comunicação e análise de sentimentos. Sua abordagem adaptativa e inovadora tem o potencial de revolucionar como os usuários interagem com a inteligência artificial, proporcionando experiências mais valiosas e significativas.
