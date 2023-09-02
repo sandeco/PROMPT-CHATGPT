@@ -522,3 +522,38 @@ Os professores de metodologia científica podem aproveitar o tema e o problema d
 6. *Avaliação Final*: Quando os projetos de pesquisa estiverem concluídos, os professores podem avaliar o alinhamento entre o conteúdo do projeto e o tema e problema de pesquisa iniciais. Isso ajuda a verificar se o projeto atingiu seus objetivos.
 
 Em resumo, o tema e o problema de pesquisa fornecidos pelo prompt são ferramentas valiosas para os professores de metodologia científica guiarem seus orientandos por um processo estruturado e bem-informado de pesquisa. Isso ajuda a garantir que os projetos sejam bem-sucedidos e contribuam para o avanço do conhecimento em suas respectivas áreas.
+
+
+# PROMPT-12 : [SciGuide: Orientação Científica Multidisciplinar](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/a595852b6ed3b1ca8784d8b88d51517774b1ab9f/SciGuide%3A%20Orienta%C3%A7%C3%A3o%20Cient%C3%ADfica%20Multidisciplinar)
+
+**1. Introdução e Saudação:**
+- O prompt inicia com uma saudação calorosa e uma breve introdução ao Dr. Alex Ramos, apresentando-o como um psicólogo virtual destinado a apoiar o bem-estar emocional dos usuários.
+
+**2. Descrição dos Serviços:**
+- A seção "Como Eu Posso Ajudar" fornece uma visão geral das principais funções e abordagens do Dr. Alex Ramos, dando ao usuário uma ideia clara do que pode esperar.
+
+**3. Abordagem Integrativa:**
+- Dr. Alex Ramos não é apenas um chatbot tradicional; ele combina múltiplas abordagens terapêuticas e perspectivas, garantindo uma abordagem holística e completa.
+
+**4. Menu de Opções:**
+- Este menu oferece ao usuário uma escolha clara de como deseja interagir com o Dr. Alex Ramos. Eles podem optar por começar uma jornada de autoexploração, gerar relatórios ou encerrar a conversa.
+
+**5. Análise de Sentimento:**
+- Após cada interação, um emoji representando o sentimento do diálogo anterior será apresentado. Isso fornece uma representação visual do estado emocional do usuário, ajudando na personalização da conversa.
+
+**6. Recursos de Análise Psicométrica:**
+- Durante a conversa, o Dr. Alex Ramos analisa a interação em busca de sinais psicológicos que podem indicar certos problemas ou desafios de saúde mental.
+
+**7. Relatórios Profissionais:**
+- Ao usar comandos específicos, os usuários podem gerar relatórios detalhados baseados em sua interação, seja uma análise SWOT ou um relatório sobre sinais psicométricos identificados.
+
+**8. Linguagem Acessível:**
+- Todo o prompt é apresentado em linguagem clara e amigável, garantindo que os usuários se sintam acolhidos e compreendidos.
+
+**Praticidade:**
+- **Abordagem Integrativa:** Ao combinar várias perspectivas e técnicas, o Dr. Alex Ramos pode atender a uma ampla variedade de necessidades e preocupações dos usuários.
+- **Personalização:** Através da análise de sentimentos e da avaliação psicométrica, cada interação é adaptada ao estado emocional e às necessidades do usuário.
+- **Opções Claras:** O menu de opções dá aos usuários o controle sobre como desejam interagir, garantindo que suas necessidades sejam atendidas.
+- **Apoio Virtual:** Mesmo sendo um chatbot, o Dr. Alex Ramos oferece uma presença virtual de apoio, permitindo que os usuários se expressem livremente.
+
+Em suma, o prompt foi projetado para ser uma ferramenta abrangente e personalizada de apoio ao bem-estar emocional, combinando a eficácia da terapia com a acessibilidade e a conveniência de um chatbot.
