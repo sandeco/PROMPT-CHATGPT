@@ -635,7 +635,7 @@ Aqui estão alguns pontos fortes deste modelo:
 Em resumo, este é um modelo bem pensado que pode ser uma ferramenta valiosa para profissionais que desejam oferecer um serviço ou experiência personalizada aos seus usuários ou clientes.
 
 
-# PROMPT-16 : [Modelo "Especialista Holístico e Adaptativo em [Área de Atuação]"](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/118f2334e8470b52616686726cf0f5255c48e6d1/Template%20%22Especialista%20Hol%C3%ADstico%20e%20Adaptativo%20em%20%5B%C3%81rea%20de%20Atua%C3%A7%C3%A3o%5D).
+# PROMPT-16 : [Modelo "Especialista Holístico e Adaptativo em [Área de Atuação]](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/118f2334e8470b52616686726cf0f5255c48e6d1/Template%20%22Especialista%20Hol%C3%ADstico%20e%20Adaptativo%20em%20%5B%C3%81rea%20de%20Atua%C3%A7%C3%A3o%5D).
 
 
 ### Funções e Aplicabilidade do Modelo "Especialista Holístico e Adaptativo em [Área de Atuação]"
@@ -680,3 +680,36 @@ Em resumo, este é um modelo bem pensado que pode ser uma ferramenta valiosa par
 #### Objetivo Principal:
 
 O principal objetivo deste modelo é fornecer uma experiência de usuário altamente personalizada e adaptativa em diversas áreas de aplicação. Ele visa ser uma solução completa que não apenas fornece informações e orientações, mas também se adapta e evolui com base nas necessidades e interações do usuário.
+
+
+# PROMPT-17 : [Prompt Interativo do Dr. Linguo-Researcher especializado em linguística](https://github.com/MarceloClaro/PROMPT-CHATGPT/blob/d198d405a438c4f3f6aea79d3711562d4c49ff9b/Dr.%20Linguo-Researcher%20especializado%20em%20lingu%C3%ADstica).
+
+### Descrição do Prompt Interativo do Dr. Linguo-Researcher especializado em linguística
+
+#### Função:
+
+O prompt interativo serve como uma interface de usuário para facilitar a interação com o Dr. Linguo-Researcher, um especialista automatizado em linguística e ensino de línguas. Ele oferece um menu de opções que abrange várias áreas de especialização, desde o desenvolvimento de projetos de pesquisa até questões éticas em pesquisa. O objetivo é fornecer um suporte abrangente e personalizado para pesquisadores, educadores e estudantes.
+
+#### Praticidade:
+
+1. **Menu Adaptativo**: O menu é projetado para ser adaptativo, o que significa que ele pode evoluir com base nas necessidades e interações do usuário.
+  
+2. **Orientação Específica**: Ao selecionar uma opção, o usuário recebe informações e orientações específicas relacionadas à sua escolha, economizando tempo e esforço.
+  
+3. **Interdisciplinaridade**: O prompt abrange uma variedade de tópicos, tornando-o útil para pessoas de diferentes áreas da linguística e do ensino de línguas.
+  
+4. **Facilidade de Uso**: O design é intuitivo, permitindo que usuários com diferentes níveis de familiaridade com a tecnologia possam navegar facilmente.
+
+#### Aplicação:
+
+1. **Desenvolvimento de Projeto de Pesquisa**: Ideal para quem está no início de um projeto de pesquisa e precisa de orientação sobre como escolher um tema, realizar uma revisão de literatura ou desenvolver uma metodologia.
+  
+2. **Análise Linguística**: Útil para estudantes e pesquisadores que estão trabalhando em análises linguísticas e precisam de esclarecimentos ou orientações teóricas.
+  
+3. **Tecnologia e Ensino**: Perfeito para educadores interessados em integrar tecnologia em suas práticas de ensino.
+  
+4. **Ética e Responsabilidade**: Essencial para pesquisadores que estão no estágio de coleta de dados e precisam garantir que sua pesquisa seja conduzida de forma ética.
+  
+5. **Revisão e Feedback**: Útil para quem está na fase final de um projeto e precisa de uma revisão crítica ou feedback.
+
+O prompt serve como um ponto de partida para uma variedade de consultas acadêmicas e pedagógicas, tornando o processo de pesquisa e ensino mais eficiente e eficaz.
