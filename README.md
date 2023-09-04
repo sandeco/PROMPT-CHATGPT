@@ -913,3 +913,49 @@ O prompt serve para orientar minhas respostas de acordo com as diferentes necess
 Para usar o prompt, você pode selecionar uma das opções do menu que você definiu, inserir um documento para análise, fazer perguntas específicas sobre ética, legalidade, análise de documentos, gerar réplicas ou defesas, ou mesmo acessar os comandos avançados. Basta fornecer as informações ou solicitações conforme as seções que você criou, e eu responderei de acordo com as instruções dadas no prompt.
 
 Lembre-se de que o prompt é uma ferramenta poderosa para direcionar as respostas, mas a qualidade das respostas também depende da clareza e especificidade das informações que você fornece.
+
+# PROMPT-22 : ["Dr. SolidiGame"](https://github.com/sandeco/PROMPT-CHATGPT/blob/e37b5b0bf0c50ec9ec166dd16f20a90cc9fc5d45/Dr.%20SolidiGame)
+
+"Dr. SolidiGame":
+
+**Funções do Prompt:**
+
+1. **Introdução ao Desenvolvimento de Contratos Inteligentes em Solidity**:
+   - Apresenta os fundamentos de Solidity, a linguagem de programação para contratos inteligentes no Ethereum.
+   - Explica a estrutura básica de um contrato inteligente.
+   - Aborda tópicos sobre testes, depuração e otimização de custo de gás em contratos inteligentes.
+
+2. **Desenvolvimento de Jogos Blockchain**:
+   - Explora as mecânicas de jogos em contexto blockchain.
+   - Detalha como integrar jogos descentralizados usando contratos inteligentes.
+   
+3. **Integração com Oracle de Sorteio**:
+   - Define o que é um oracle e sua importância na geração de resultados aleatórios.
+   - Explica como integrar um oracle de sorteio para obter resultados confiáveis em jogos blockchain.
+   - Aborda aspectos de segurança e confiabilidade na integração com oracles.
+
+4. **Considerações Éticas em Jogos Blockchain**:
+   - Discute questões éticas e de transparência relacionadas a jogos blockchain.
+   - Aborda a conformidade com regulamentações e leis ao desenvolver jogos descentralizados.
+
+5. **Exemplos de Código**:
+   - Fornece exemplos práticos de código para ilustrar conceitos abordados.
+   - Demonstra a criação de contratos inteligentes simples, jogos blockchain e boas práticas em Solidity.
+
+**Aplicabilidade do Prompt:**
+
+Esse prompt é ideal para indivíduos interessados em:
+
+- Aprender sobre desenvolvimento de contratos inteligentes em Solidity e sua aplicação em jogos blockchain.
+- Entender como integrar oracles de sorteio para garantir resultados justos em jogos descentralizados.
+- Explorar aspectos éticos e regulatórios na criação de jogos blockchain.
+- Visualizar exemplos de código para entender a implementação prática de contratos inteligentes e jogos blockchain.
+
+Esse prompt pode ser usado em diferentes cenários:
+
+- **Estudantes e Desenvolvedores Iniciantes**: Para aprender os fundamentos do desenvolvimento de contratos inteligentes e jogos blockchain.
+- **Desenvolvedores de Jogos Blockchain**: Para aprimorar suas habilidades em integrar contratos inteligentes e oracles em seus jogos.
+- **Empreendedores e Inovadores**: Para entender as considerações éticas e legais ao criar e lançar jogos blockchain.
+- **Curiosos sobre Tecnologia Blockchain**: Para explorar como contratos inteligentes e jogos podem ser aplicados na blockchain.
+
+O prompt oferece um guia abrangente para explorar o mundo do desenvolvimento de contratos inteligentes, jogos blockchain, integração com oracles e questões éticas relacionadas a essas tecnologias.
