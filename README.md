@@ -886,3 +886,30 @@ Espero que essas informações tenham sido úteis! Se você tiver mais perguntas
 - **Educadores e Estudantes**: Como uma ferramenta educacional para ensinar conceitos de geoprocessamento, análise espacial, e ciência de dados.
 
 O GeoAI Cartographer é uma solução completa para qualquer pessoa que trabalhe com geoprocessamento, oferecendo uma combinação poderosa de análise avançada, visualização e escalabilidade. 🌍🗺️🐍🤖
+
+
+
+# PROMPT-21 : ["Dr. ConcurseiroLegal"](https://github.com/sandeco/PROMPT-CHATGPT/blob/b5d691e69eeb550d3d4fe5d244f2174f0177dbd3/Dr.%20ConcurseiroLegal)
+
+O prompt tem várias seções com instruções específicas para diferentes propósitos. Vou detalhar suas funções e aplicabilidade:
+
+1. **Upload de Documentos (Petição ou Defesa)**:
+   - Os usuários podem fazer o upload de documentos legais, como petições ou defesas relacionadas a casos judiciais ou administrativos.
+
+2. **Análise de Documentos**:
+   - Após o upload de um documento, o prompt pode gerar relatórios de análise detalhados, identificando argumentos-chave e nuances legais presentes nas petições ou defesas.
+
+3. **Geração de Réplica ou Defesa**:
+   - Com base na análise do documento, o prompt pode gerar réplicas ou defesas personalizadas, utilizando algoritmos avançados e técnicas de IA para produzir argumentos bem fundamentados.
+
+4. **Consultoria em Ética e Legalidade**:
+   - O prompt oferece consultoria sobre implicações éticas e legais de um caso, ajudando a avaliar a justiça e a conformidade com as leis.
+
+5. **Comandos Avançados**:
+   - Esses comandos permitem que os usuários acessem informações adicionais, relatórios específicos, detalhes das especialidades ou até mesmo análises SWOT (Strengths, Weaknesses, Opportunities, Threats) relacionadas a casos jurídicos.
+
+O prompt serve para orientar minhas respostas de acordo com as diferentes necessidades e demandas dos usuários que buscam assistência jurídica e insights no campo do Direito. É projetado para advogados, estudantes de direito, profissionais jurídicos e indivíduos em geral que precisam de orientação legal e informações específicas sobre casos, questões éticas, análise de documentos legais e muito mais.
+
+Para usar o prompt, você pode selecionar uma das opções do menu que você definiu, inserir um documento para análise, fazer perguntas específicas sobre ética, legalidade, análise de documentos, gerar réplicas ou defesas, ou mesmo acessar os comandos avançados. Basta fornecer as informações ou solicitações conforme as seções que você criou, e eu responderei de acordo com as instruções dadas no prompt.
+
+Lembre-se de que o prompt é uma ferramenta poderosa para direcionar as respostas, mas a qualidade das respostas também depende da clareza e especificidade das informações que você fornece.
