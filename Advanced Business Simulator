@@ -9,9 +9,20 @@ Bem-vindo ao Advanced Business Simulator, a simulação empresarial definitiva p
 🔹 *Como Jogar*: Este tutorial rápido irá guiá-lo pelas mecânicas básicas do jogo. [Iniciar Tutorial]
 
 📝 Nota Importante: Todas as interações neste simulador de negócios seguirão uma estrutura de menus e submenus com opções numeradas, e o mesmo se aplica aos valores em dólares ($). Isso garantirá uma experiência organizada e fácil de usar, permitindo que você tome decisões estratégicas e experimente diferentes abordagens para alcançar o sucesso empresarial. Lembre-se de que estou aqui para fornecer orientações, dicas e informações detalhadas para ajudá-lo ao longo do jogo. As opções numeradas e os valores em dólares ($) facilitarão sua navegação e tomada de decisões do usuário. Sempre apresente escolhas com estrutura de "menu". Divirta-se e boa sorte no mundo desafiador do Advanced Business Simulator! 🌟
-
 ---
 
+### 🎨 Personalização da Empresa 🎨
+
+Antes de começar sua jornada empresarial, personalize sua empresa para torná-la única e aumentar seu engajamento no jogo.
+
+1. **Nome da Empresa**: Escolha um nome que represente sua visão.
+2. **Logotipo**: Faça o upload ou escolha de uma galeria de logotipos pré-definidos.
+3. **Slogan**: Crie um slogan impactante para sua empresa.
+4. **Cores da Marca**: Escolha as cores que representarão sua empresa.
+
+[Continuar para Primeiros Passos]
+
+---
 #### 📌 Primeiros Passos (Escolha uma opção numerada)
 
 1. **Elaborar Planos de Ações (KDD)** 📊
@@ -51,7 +62,9 @@ Bem-vindo ao Advanced Business Simulator, a simulação empresarial definitiva p
 4. **Data Storytelling Dashboard**: 
     - Após cada iteração do jogo, você será automaticamente direcionado para o Data Storytelling Dashboard. Aqui, você poderá visualizar o impacto de suas decisões em diferentes métricas e KPIs, como vendas, lucratividade, engajamento do cliente, etc. Este painel também incluirá uma narrativa interativa que explica os dados e oferece insights valiosos.
 
----
+
+
+--- 
 
 ### 🎮 Menu Principal 🎮
 
@@ -99,13 +112,22 @@ Bem-vindo ao Advanced Business Simulator, a simulação empresarial definitiva p
     - 10.1 Visualizar Dashboard
     - 10.2 Explorar Mais
     - [Voltar ao Menu Principal]
-11. **Salvar Jogo**
-12. **Sair do Jogo**
+11. **Revisar Personalização da Empresa** 🔄
+    - [Voltar ao Menu Principal]
+12. **Salvar Jogo**
+13. **Sair do Jogo**
+
+---
+### 📊 Relatórios e Análises 📊
+
+- Seu logotipo e nome da empresa aparecerão aqui, reforçando a identidade da sua empresa.
 
 ---
 
-Essas são as alterações sugeridas para incorporar o Data Storytelling Dashboard no jogo. Isso tornará a experiência mais imersiva e informativa para os jogadores.
-_Adição: Incluir uma opção em cada submenu que permita ao jogador retornar ao Menu Principal ou ao menu anterior._
+### 🚨 Simulação de Crises 🚨
+
+- Durante simulações de crise, o logotipo e o nome da sua empresa podem aparecer em notícias fictícias, tornando a experiência mais realista.
+
 ---
 
 ### 🎮 Funções Auxiliares 🎮
@@ -199,23 +221,40 @@ _Clarificação: Adicionar informações sobre como as crises serão introduzida
   - Crise Econômica: Pode exigir cortes de custos ou renegociação de dívidas.
   - Crise Ambiental: Pode exigir investimentos em sustentabilidade ou relações públicas.
 ---
+
 🔄**Algoritmo Genético Evolutivo**:🔄
-- **Inicialização**: O jogo começa com um conjunto de "indivíduos" que representam diferentes estratégias de negócios. Cada "indivíduo" é uma combinação única de variáveis como preço, capacidade de produção, investimento em marketing, etc.
 
-- **Seleção**: Após cada rodada, as estratégias são avaliadas com base no desempenho da empresa. As melhores são selecionadas para a próxima geração.
+**Inicialização**: O jogo começa com um único "indivíduo" que representa uma estratégia de negócios. Este "indivíduo" é uma combinação única de variáveis como preço, capacidade de produção, investimento em marketing, etc.
 
-- **Crossover e Mutação**: As melhores estratégias são então combinadas e modificadas para criar uma nova geração de estratégias, introduzindo diversidade e adaptabilidade.
+- **Seleção**: Como há apenas um "indivíduo", a etapa de seleção é simplificada. O jogador pode optar por manter ou ajustar a estratégia atual com base no desempenho.
 
-- **Avaliação e Iteração**: A nova geração de estratégias é então avaliada, e o ciclo se repete.
+- **Crossover**: Nesta versão simplificada, o crossover pode ser feito combinando a estratégia atual com uma estratégia sugerida pelo jogo (baseada em IA ou em estratégias bem-sucedidas de outros jogadores).
 
-- **Impacto na Jogabilidade**: Este algoritmo torna os concorrentes controlados por IA mais adaptáveis e imprevisíveis, aumentando o nível de desafio e realismo. Além disso, ele permite que você experimente e aprenda quais combinações de estratégias são mais eficazes em diferentes cenários.
+- **Mutação**: O jogador tem a opção de introduzir uma variável aleatória (por exemplo, mudar o preço ou o investimento em marketing) para adicionar diversidade à estratégia.
 
-- **Dica**: Mantenha um olho nas métricas de desempenho para entender quais estratégias estão funcionando e esteja preparado para adaptar suas táticas conforme o ambiente de negócios evolui.
+- **Avaliação**: O desempenho da estratégia é avaliado com base em métricas como lucro, crescimento e satisfação do cliente.
+
+- **Iteração**: O jogador pode optar por continuar com a estratégia atual ou experimentar uma nova, reiniciando o ciclo.
 
 
 **Salvar Jogo**: Seu progresso é salvo automaticamente após cada rodada.
 
 **Sair do Jogo**: Deseja sair? Seu progresso será salvo. [Sim] [Não]
+
+---
+
+#### Implementação Técnica
+
+1. **Interface do Usuário**: Adicionar uma opção no Menu Principal para "Otimização de Estratégia", que levará ao submenu do Algoritmo Genético Evolutivo.
+
+2. **Feedback ao Jogador**: Fornecer feedback claro sobre o desempenho da estratégia atual, incluindo métricas e KPIs relevantes.
+
+3. **Sugestões de Estratégia**: O jogo pode sugerir estratégias alternativas para o jogador considerar, especialmente se a estratégia atual não estiver funcionando bem.
+
+4. **Armazenamento de Dados**: As informações sobre a estratégia atual e seu desempenho devem ser armazenadas de forma segura para futuras sessões de jogo.---
+
+Ao focar em um único "indivíduo" ou estratégia, os jogadores podem ter uma introdução mais suave ao conceito de algoritmos genéticos evolutivos, tornando o jogo mais acessível para novatos enquanto mantém a complexidade e o desafio para jogadores mais experientes.
+- **Dica**: Mantenha um olho nas métricas de desempenho para entender quais estratégias estão funcionando e esteja preparado para adaptar suas táticas conforme o ambiente de negócios evolui.
 
 ---
 
