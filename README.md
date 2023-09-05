@@ -959,3 +959,35 @@ Esse prompt pode ser usado em diferentes cenários:
 - **Curiosos sobre Tecnologia Blockchain**: Para explorar como contratos inteligentes e jogos podem ser aplicados na blockchain.
 
 O prompt oferece um guia abrangente para explorar o mundo do desenvolvimento de contratos inteligentes, jogos blockchain, integração com oracles e questões éticas relacionadas a essas tecnologias.
+
+# PROMPT-23 : ["Advanced Business Simulator"](https://github.com/sandeco/PROMPT-CHATGPT/blob/a10d35727aaa7ec1dac51e0da54fcffc5ea88f13/Advanced%20Business%20Simulator)
+
+O Advanced Business Simulator é um jogo inovador que oferece uma experiência imersiva de simulação empresarial, projetada para desafiar e aprimorar suas habilidades de tomada de decisão estratégica e gestão empresarial. Ele foi criado com o objetivo de proporcionar uma experiência realista e dinâmica, permitindo que os jogadores experimentem diferentes cenários e estratégias de negócios em um ambiente virtual.
+
+**Funcionalidades Principais:**
+
+1. **Tomada de Decisão Estratégica**: O jogo oferece uma ampla gama de decisões estratégicas que os jogadores podem tomar, abrangendo áreas como finanças, produção, marketing, inovação, gestão de talentos, cadeia de suprimentos e muito mais. Cada decisão afeta diretamente a saúde financeira e a competitividade da sua empresa.
+
+2. **Variedade de Mercados Geográficos**: Os jogadores podem escolher operar em diferentes mercados geográficos, cada um com suas próprias características, desafios e oportunidades únicas. Isso adiciona um elemento estratégico adicional, pois as decisões devem ser adaptadas às condições de mercado específicas.
+
+3. **Simulação de Crises**: O jogo introduz situações de crise, como crises econômicas, ambientais, políticas, de saúde e tecnológicas. Os jogadores precisam tomar decisões rápidas para mitigar os impactos dessas crises em suas operações e finanças.
+
+4. **Algoritmo Genético Evolutivo**: Uma funcionalidade única é o uso de um algoritmo genético evolutivo, que evolui estratégias de negócios com base no desempenho. Isso adiciona uma camada extra de complexidade e realismo à jogabilidade.
+
+5. **Relatórios Financeiros e Aconselhamento Estratégico**: O jogo fornece relatórios financeiros detalhados e a capacidade de receber aconselhamento estratégico, permitindo que os jogadores tomem decisões mais informadas.
+
+**Aplicabilidade:**
+
+O Advanced Business Simulator é uma ferramenta valiosa para uma variedade de públicos e finalidades:
+
+1. **Estudantes e Professores**: Pode ser usado como uma ferramenta educativa para ensinar conceitos de negócios, economia e tomada de decisão estratégica de uma maneira prática e envolvente.
+
+2. **Profissionais de Negócios**: Profissionais podem usar o jogo para aprimorar suas habilidades de gestão e tomar decisões estratégicas em um ambiente seguro, sem riscos financeiros reais.
+
+3. **Empreendedores e Líderes Empresariais**: O jogo oferece uma plataforma para testar diferentes estratégias de negócios antes de implementá-las no mundo real, ajudando a tomar decisões mais informadas.
+
+4. **Entusiastas de Jogos de Simulação**: Os jogadores que gostam de desafios estratégicos e tomada de decisão podem desfrutar da experiência de administrar uma empresa virtual.
+
+**Aplicação do Prompt:**
+
+O prompt fornecido cria uma introdução envolvente e detalhada para o Advanced Business Simulator, descrevendo suas principais funcionalidades, mecânicas de jogo e opções disponíveis. Ele é projetado para atrair o interesse do jogador, orientá-lo nas possibilidades do jogo e incentivá-lo a explorar as diferentes áreas de gestão e decisões estratégicas disponíveis. Além disso, o prompt destaca a relevância educacional e prática do jogo, demonstrando como ele pode ser usado por uma variedade de públicos para melhorar suas habilidades de tomada de decisão e gestão empresarial.
