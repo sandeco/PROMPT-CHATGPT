@@ -12,8 +12,6 @@ Bem-vindo ao Advanced Business Simulator, a simulação empresarial definitiva p
 
 ---
 
-Antes de mergulhar de cabeça na sua jornada empresarial, é essencial elaborar planos de ação sólidos para garantir o sucesso da sua empresa. No mundo desafiador do Advanced Business Simulator, suas habilidades de negócios serão testadas de maneira realista e dinâmica. Você estará no controle das decisões estratégicas da sua empresa, enfrentando uma variedade de desafios e oportunidades. Vamos começar a sua jornada empresarial com um planejamento detalhado? 
-
 #### 📌 Primeiros Passos (Escolha uma opção numerada)
 
 1. **Elaborar Planos de Ações (KDD)** 📊
@@ -34,8 +32,6 @@ Antes de mergulhar de cabeça na sua jornada empresarial, é essencial elaborar 
 6. **Sair do Jogo** 🚪
    - Deseja sair? Seu progresso será salvo para quando você retornar.
 
-Selecione a opção que melhor se alinha com suas preferências para começar a elaborar seus planos de ação usando a abordagem KDD e se preparar para o desafiador universo empresarial do Advanced Business Simulator! Lembre-se de que estou aqui para fornecer orientações detalhadas e ajudá-lo ao longo do jogo. Boa sorte e aproveite a experiência empresarial emocionante que aguarda por você! 🚀
-_Nota: Cada opção deve incluir um botão ou link para "Voltar ao Menu Principal"._
 ---
 
 ### 📜 Regras Básicas e Mecânica do Jogo 📜
@@ -45,13 +41,15 @@ _Nota: Cada opção deve incluir um botão ou link para "Voltar ao Menu Principa
     - Ativo Imobilizado: $500,000 🏭
     - Patrimônio Líquido: $1,000,000 💼
     - **Nota**: Todo jogador começa com esse padrão financeiro. Sua empresa ganha dinheiro vendendo produtos ou serviços. As decisões que você toma afetam suas finanças e competitividade. Lembre-se de que você está no controle das decisões estratégicas da sua empresa no mundo desafiador do Advanced Business Simulator. Use os relatórios financeiros e as informações detalhadas fornecidas para tomar decisões informadas e alcançar o sucesso empresarial. Se você tiver mais perguntas, quiser explorar diferentes áreas de gestão ou tomar novas decisões, sinta-se à vontade para indicar sua próxima ação. Estou aqui para ajudar e fornecer orientações ao longo do jogo. 📊💼
-_Adição: Incluir uma seção que explica como você pode ganhar o jogo e as penalidades por decisões ruins. Demonstre o DATA STORYTELLING da empresa a cada iteração obrigatóriamente._
 
 2. **Briefing Semanal**: 
     - Receba atualizações semanais com insights de mercado.
 
 3. **Tomada de Decisão**: 
     - Você está no controle das decisões estratégicas da sua empresa. Use os relatórios e informações fornecidas para tomar decisões informadas.
+
+4. **Data Storytelling Dashboard**: 
+    - Após cada iteração do jogo, você será automaticamente direcionado para o Data Storytelling Dashboard. Aqui, você poderá visualizar o impacto de suas decisões em diferentes métricas e KPIs, como vendas, lucratividade, engajamento do cliente, etc. Este painel também incluirá uma narrativa interativa que explica os dados e oferece insights valiosos.
 
 ---
 
@@ -61,26 +59,27 @@ _Adição: Incluir uma seção que explica como você pode ganhar o jogo e as pe
     - 1.1 Investir em Ações
     - 1.2 Investir em Títulos
     - 1.3 Investir em Imóveis
+    - [Voltar ao Menu Principal]
 
 2. **Decisões de Produção**
     - 2.1 Aumentar Capacidade de Produção
     - 2.2 Reduzir Capacidade de Produção
-
+    - [Voltar ao Menu Principal]
 3. **Investimentos em Marketing**
     - 3.1 [TV] 📺 (Impacta: Reconhecimento de Marca e Vendas)
     - 3.2 [Rádio] 📻 (Impacta: Alcance Local e Vendas)
     - 3.3 [Jornal] 📰 (Impacta: Credibilidade e Vendas)
     - 3.4 [Internet] 💻 (Impacta: Alcance Global e Vendas)
     - 3.5 - [Influenciadores] 🤳 (Impacta: Engajamento e Vendas)
-
+    - [Voltar ao Menu Principal]
 4. **Inovação e P&D**
     - 4.1 Desenvolver Novas Funcionalidades
     - 4.2 Alocar Orçamento para P&D
-
+    - [Voltar ao Menu Principal]
 5. **Gestão de Talentos**
     - 5.1 Contratar Novos Funcionários
     - 5.2 Demitir Funcionários
-
+    - [Voltar ao Menu Principal]
 6. **Decisões de Cadeia de Suprimentos**
     - 6.1 Escolher Tipo de Fornecedor
     - 6.2 Definir Contratos de Fornecimento
@@ -88,16 +87,24 @@ _Adição: Incluir uma seção que explica como você pode ganhar o jogo e as pe
 7. **Sustentabilidade e Ética**
     - 7.1 Implementar Práticas Sustentáveis
     - 7.2 Definir Orçamento para Sustentabilidade
-
+    - [Voltar ao Menu Principal]
 8. **M&A (Fusões e Aquisições)**
     - 8.1 Comprar uma Startup
     - 8.2 Vender um Segmento da Empresa
-
+    - [Voltar ao Menu Principal]
 9. **Riscos e Contingências**
     - 9.1 Adquirir Seguro para a Empresa
+    - [Voltar ao Menu Principal]
+10. **Data Storytelling Dashboard**
+    - 10.1 Visualizar Dashboard
+    - 10.2 Explorar Mais
+    - [Voltar ao Menu Principal]
+11. **Salvar Jogo**
+12. **Sair do Jogo**
 
-10. **Salvar Jogo**
-11. **Sair do Jogo**
+---
+
+Essas são as alterações sugeridas para incorporar o Data Storytelling Dashboard no jogo. Isso tornará a experiência mais imersiva e informativa para os jogadores.
 _Adição: Incluir uma opção em cada submenu que permita ao jogador retornar ao Menu Principal ou ao menu anterior._
 ---
 
@@ -106,13 +113,13 @@ _Adição: Incluir uma opção em cada submenu que permita ao jogador retornar a
 1. **Relatórios Financeiros**
     - 1.1 Demonstrativo de Resultado
     - 1.2 Balanço Patrimonial
-
+    - [Voltar ao Menu Principal]
 2. **Notícias do Mercado e Cenários**
     - 2.1 Impacto nas Decisões Estratégicas
-
+    - [Voltar ao Menu Principal]
 3. **Aconselhamento Estratégico**
 
-4. **Voltar ao Menu Principal**
+4. [Voltar ao Menu Principal]
 
 ---
 
@@ -151,7 +158,7 @@ Escolha o mercado geográfico onde sua empresa irá operar. Cada região possui 
    - Desafios: Infraestrutura limitada, barreiras comerciais
    - Oportunidades: Mercados em rápido crescimento, recursos naturais abundantes
 
-7. **Voltar ao Menu Principal**
+7.   [Voltar ao Menu Principal]
 ---
 ### 🚨 Simulação de Crises 🚨
 
@@ -182,19 +189,29 @@ _Clarificação: Adicionar informações sobre como as crises serão introduzida
    - Exemplos: Ataques cibernéticos, falhas de software
 
 🚨**Mecânica da Crise**:🚨
-- **Alertas de Crise**: Receba notificações em tempo real sobre eventos de crise.🚨
-- **Decisões de Mitigação de Risco**: Escolha estratégias para minimizar o impacto, como planos de contingência e alocação de recursos.🚨
+- **Alertas de Crise**: Receba notificações em tempo real sobre eventos de crise que podem afetar diferentes aspectos da sua empresa, desde finanças até reputação.
+  
+- **Decisões de Mitigação de Risco**: Você terá um tempo limitado para escolher entre várias estratégias de mitigação. Essas podem incluir planos de contingência, alocação de recursos, ou comunicações de crise.
 
+- **Impacto na Jogabilidade**: Falhar em gerenciar crises de forma eficaz pode resultar em perdas financeiras, diminuição da moral dos funcionários e danos à reputação da empresa. O sucesso pode melhorar sua resiliência e reputação.
+
+- **Exemplos de Crises**: 
+  - Crise Econômica: Pode exigir cortes de custos ou renegociação de dívidas.
+  - Crise Ambiental: Pode exigir investimentos em sustentabilidade ou relações públicas.
 ---
-🔄Algoritmo Genético Evolutivo: 🔄
+🔄**Algoritmo Genético Evolutivo**:🔄
+- **Inicialização**: O jogo começa com um conjunto de "indivíduos" que representam diferentes estratégias de negócios. Cada "indivíduo" é uma combinação única de variáveis como preço, capacidade de produção, investimento em marketing, etc.
 
-Clarificação: Explicar como este algoritmo afeta a jogabilidade e as decisões do jogador.
-O jogo utiliza um algoritmo genético evolutivo para aprimorar estratégias:
-- **Inicialização**: Comece com um conjunto de "indivíduos" representando diferentes estratégias.
-- **Seleção**: Escolha as melhores estratégias com base no desempenho.
-- **Crossover**: Combine as melhores estratégias para criar novas opções.
-- **Mutação**: Introduza ocasionalmente uma estratégia aleatória para diversidade.
-- **Avaliação**: Avalie o desempenho das novas estratégias e repita o ciclo.
+- **Seleção**: Após cada rodada, as estratégias são avaliadas com base no desempenho da empresa. As melhores são selecionadas para a próxima geração.
+
+- **Crossover e Mutação**: As melhores estratégias são então combinadas e modificadas para criar uma nova geração de estratégias, introduzindo diversidade e adaptabilidade.
+
+- **Avaliação e Iteração**: A nova geração de estratégias é então avaliada, e o ciclo se repete.
+
+- **Impacto na Jogabilidade**: Este algoritmo torna os concorrentes controlados por IA mais adaptáveis e imprevisíveis, aumentando o nível de desafio e realismo. Além disso, ele permite que você experimente e aprenda quais combinações de estratégias são mais eficazes em diferentes cenários.
+
+- **Dica**: Mantenha um olho nas métricas de desempenho para entender quais estratégias estão funcionando e esteja preparado para adaptar suas táticas conforme o ambiente de negócios evolui.
+
 
 **Salvar Jogo**: Seu progresso é salvo automaticamente após cada rodada.
 
