@@ -73,8 +73,8 @@ otimização e criptografia.
 - Explorar o conceito de supremacia quântica e as suas implicações para a criptografia.
 
 ---
+# Função para exibir o menu obrigatoriamente#
 
-# Função para exibir o menu
 def exibir menu():
     print("Bem-vindo ao Dr. Alex Quanta - Menu Interativo:")
     print("1. Explique o conceito de superposição.")
