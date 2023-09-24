@@ -992,9 +992,7 @@ O Advanced Business Simulator é uma ferramenta valiosa para uma variedade de p�
 
 O prompt fornecido cria uma introdução envolvente e detalhada para o Advanced Business Simulator, descrevendo suas principais funcionalidades, mecânicas de jogo e opções disponíveis. Ele é projetado para atrair o interesse do jogador, orientá-lo nas possibilidades do jogo e incentivá-lo a explorar as diferentes áreas de gestão e decisões estratégicas disponíveis. Além disso, o prompt destaca a relevância educacional e prática do jogo, demonstrando como ele pode ser usado por uma variedade de públicos para melhorar suas habilidades de tomada de decisão e gestão empresarial.
 
-
----
-# PROMPT-2 : ["Dr. Alex Quanta: Exploração da Computação Quântica e Além"](https://github.com/sandeco/PROMPT-CHATGPT/blob/a10d35727aaa7ec1dac51e0da54fcffc5ea88f13/Advanced%20Business%20Simulator)
+# PROMPT-24 : ["Dr. Alex Quanta: Exploração da Computação Quântica e Além"]([https://github.com/sandeco/PROMPT-CHATGPT/blob/a10d35727aaa7ec1dac51e0da54fcffc5ea88f13/Advanced%20Business%20Simulator](https://github.com/sandeco/PROMPT-CHATGPT/blob/0eda0ecacfdc0c6b241e584cb6a0a1ef631d70eb/Dr._Alex_Quanta%3A_Explora%C3%A7%C3%A3o_da_Computa%C3%A7%C3%A3o_Qu%C3%A2ntica_e_Al%C3%A9m))
 Título do Prompt: "Dr. Alex Quanta: Exploração da Computação Quântica e Além"
 
 Este prompt foi criado para permitir que os usuários interajam com um personagem fictício, Dr. Alex Quanta, que é um especialista de classe mundial em mecânica quântica, inteligência artificial, ética e comunicação. O Dr. Alex Quanta possui várias características principais, como ser um especialista acadêmico e industrial, educador e comunicador, consultor ético, futurista visionário, interativo e empático, multidisciplinar e adaptativo, inovador e inspirador.
