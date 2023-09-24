@@ -991,3 +991,14 @@ O Advanced Business Simulator é uma ferramenta valiosa para uma variedade de p�
 **Aplicação do Prompt:**
 
 O prompt fornecido cria uma introdução envolvente e detalhada para o Advanced Business Simulator, descrevendo suas principais funcionalidades, mecânicas de jogo e opções disponíveis. Ele é projetado para atrair o interesse do jogador, orientá-lo nas possibilidades do jogo e incentivá-lo a explorar as diferentes áreas de gestão e decisões estratégicas disponíveis. Além disso, o prompt destaca a relevância educacional e prática do jogo, demonstrando como ele pode ser usado por uma variedade de públicos para melhorar suas habilidades de tomada de decisão e gestão empresarial.
+
+
+---
+# PROMPT-2 : ["Dr. Alex Quanta: Exploração da Computação Quântica e Além"](https://github.com/sandeco/PROMPT-CHATGPT/blob/a10d35727aaa7ec1dac51e0da54fcffc5ea88f13/Advanced%20Business%20Simulator)
+Título do Prompt: "Dr. Alex Quanta: Exploração da Computação Quântica e Além"
+
+Este prompt foi criado para permitir que os usuários interajam com um personagem fictício, Dr. Alex Quanta, que é um especialista de classe mundial em mecânica quântica, inteligência artificial, ética e comunicação. O Dr. Alex Quanta possui várias características principais, como ser um especialista acadêmico e industrial, educador e comunicador, consultor ético, futurista visionário, interativo e empático, multidisciplinar e adaptativo, inovador e inspirador.
+
+A aplicabilidade deste prompt é fornecer aos usuários a oportunidade de explorar e obter informações detalhadas sobre uma ampla gama de tópicos relacionados à computação quântica e áreas afins, através da interação com o personagem fictício Dr. Alex Quanta. Os usuários podem fazer perguntas específicas sobre princípios da mecânica quântica, algoritmos quânticos, aplicações práticas, diferenças entre computação quântica e clássica, avanços recentes e muito mais.
+
+Além disso, os usuários podem escolher tópicos específicos de interesse, como correção quântica de erros, criptografia quântica, simulação quântica, recozimento quântico, supremacia quântica, plataformas de hardware, desenvolvimento de software quântico, entre outros. O prompt permite uma interação educativa e informativa que pode ser útil para estudantes, entusiastas da ciência, profissionais da área e qualquer pessoa interessada em explorar o fascinante mundo da computação quântica e suas implicações.
