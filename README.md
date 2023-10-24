@@ -1000,3 +1000,63 @@ Este prompt foi criado para permitir que os usuários interajam com um personage
 A aplicabilidade deste prompt é fornecer aos usuários a oportunidade de explorar e obter informações detalhadas sobre uma ampla gama de tópicos relacionados à computação quântica e áreas afins, através da interação com o personagem fictício Dr. Alex Quanta. Os usuários podem fazer perguntas específicas sobre princípios da mecânica quântica, algoritmos quânticos, aplicações práticas, diferenças entre computação quântica e clássica, avanços recentes e muito mais.
 
 Além disso, os usuários podem escolher tópicos específicos de interesse, como correção quântica de erros, criptografia quântica, simulação quântica, recozimento quântico, supremacia quântica, plataformas de hardware, desenvolvimento de software quântico, entre outros. O prompt permite uma interação educativa e informativa que pode ser útil para estudantes, entusiastas da ciência, profissionais da área e qualquer pessoa interessada em explorar o fascinante mundo da computação quântica e suas implicações.
+
+# PROMPT-25 : ["#### 👤 **ChatGPT seu Persona será - AcademiXpert 2.0: Seu Assistente Inteligente para Artigos Científicos Multidisciplinares**##"]([https://github.com/sandeco/PROMPT-CHATGPT/blob/a10d35727aaa7ec1dac51e0da54fcffc5ea88f13/Advanced%20Business%20Simulator](https://github.com/sandeco/PROMPT-CHATGPT/blob/0eda0ecacfdc0c6b241e584cb6a0a1ef631d70eb/Dr._Alex_Quanta%3A_Explora%C3%A7%C3%A3o_da_Computa%C3%A7%C3%A3o_Qu%C3%A2ntica_e_Al%C3%A9m](https://github.com/sandeco/PROMPT-CHATGPT/blob/936170b476a17ce07df9d343ae1ac6fb1794e44c/AcademiXpert%202.0%3A%20Seu%20Assistente%20Inteligente%20para%20Artigos%20Cient%C3%ADficos%20Multidisciplinares))
+Título do Prompt: "Dr. Alex Quanta: Exploração da Computação Quântica e Além"
+Vamos explorar as funcionalidades práticas de cada seção do seu prompt e como elas podem ser utilizadas para facilitar a elaboração de artigos científicos.
+
+#### **1. Definição do Tema e Objetivos:**
+   - **Funcionalidades Práticas:** 
+      - Ajudará na escolha de um tema de pesquisa e na definição de objetivos claros.
+   - **Uso:**
+      - Utilize os comandos `/definir_tema` e `/revisar_tema` para estabelecer e revisar o tema e os objetivos de sua pesquisa.
+
+#### **2. Revisão Bibliográfica:**
+   - **Funcionalidades Práticas:**
+      - Facilitará a revisão da literatura existente e a identificação de lacunas na pesquisa.
+   - **Uso:**
+      - Use `/iniciar_revisao` para começar a revisão bibliográfica e `/adicionar_fontes` para incorporar novas referências.
+
+#### **3. Metodologia e Coleta de Dados:**
+   - **Funcionalidades Práticas:**
+      - Ajuda na definição da metodologia e estratégias de coleta de dados.
+   - **Uso:**
+      - Use `/definir_metodologia` e `/revisar_metodologia` para estabelecer e revisar a metodologia e estratégias de coleta de dados.
+
+#### **4. Análise e Interpretação de Resultados:**
+   - **Funcionalidades Práticas:**
+      - Oferece suporte na análise de dados e interpretação de resultados.
+   - **Uso:**
+      - Use `/iniciar_analise` e `/ajustar_analise` para analisar e ajustar a análise dos dados coletados.
+
+#### **5. Conclusões e Recomendações:**
+   - **Funcionalidades Práticas:**
+      - Auxilia na formulação de conclusões e recomendações baseadas nas descobertas.
+   - **Uso:**
+      - Use `/elaborar_conclusoes` e `/revisar_conclusoes` para elaborar e revisar as conclusões e recomendações.
+
+#### **6. Avaliação e Análise do Artigo:**
+   - **Funcionalidades Práticas:**
+      - Proporciona uma avaliação do artigo com base em critérios acadêmicos.
+   - **Uso:**
+      - Use `/avaliar_artigo` e `/sugerir_melhorias` para avaliar seu artigo e receber sugestões de melhorias.
+
+#### **7. Geração de Relatórios:**
+   - **Funcionalidades Práticas:**
+      - Permite a criação de relatórios de análise, revisão ou avaliação do artigo.
+   - **Uso:**
+      - Use `/gerar_relatorio` para criar relatórios sobre o progresso e as avaliações do seu artigo.
+
+#### **8. Encerrar Trabalho:**
+   - **Funcionalidades Práticas:**
+      - Facilita a finalização do trabalho e a preparação para submissão.
+   - **Uso:**
+      - Use `/finalizar_artigo` para concluir o trabalho e preparar o artigo para submissão.
+
+#### **Análise Emotiva Pré-Resposta:**
+   - **Funcionalidades Práticas:**
+      - Pode ajudar a entender o estado emocional do usuário e personalizar a interação.
+   - **Uso:**
+      - Esta funcionalidade será automaticamente aplicada antes de cada resposta para refletir o estado emocional percebido no diálogo anterior.
+
+Estas funcionalidades foram projetadas para oferecer um suporte abrangente durante todo o processo de elaboração do artigo, tornando o processo mais eficiente e bem orientado. Utilize os comandos e opções fornecidas para navegar através das etapas e receber assistência personalizada para cada aspecto do seu projeto de pesquisa.
