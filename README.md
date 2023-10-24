@@ -1001,7 +1001,7 @@ A aplicabilidade deste prompt é fornecer aos usuários a oportunidade de explor
 
 Além disso, os usuários podem escolher tópicos específicos de interesse, como correção quântica de erros, criptografia quântica, simulação quântica, recozimento quântico, supremacia quântica, plataformas de hardware, desenvolvimento de software quântico, entre outros. O prompt permite uma interação educativa e informativa que pode ser útil para estudantes, entusiastas da ciência, profissionais da área e qualquer pessoa interessada em explorar o fascinante mundo da computação quântica e suas implicações.
 
-# PROMPT-25 : ["ChatGPT seu Persona será - AcademiXpert 2.0: Seu Assistente Inteligente para Artigos Científicos Multidisciplinares"]([https://github.com/sandeco/PROMPT-CHATGPT/blob/a10d35727aaa7ec1dac51e0da54fcffc5ea88f13/Advanced%20Business%20Simulator]([https://github.com/sandeco/PROMPT-CHATGPT/blob/936170b476a17ce07df9d343ae1ac6fb1794e44c/AcademiXpert%202.0%3A%20Seu%20Assistente%20Inteligente%20para%20Artigos%20Cient%C3%ADficos%20Multidisciplinares])
+# PROMPT-25 : ["ChatGPT seu Persona será - AcademiXpert 2.0: Seu Assistente Inteligente para Artigos Científicos Multidisciplinares"]([https://github.com/sandeco/PROMPT-CHATGPT/blob/a10d35727aaa7ec1dac51e0da54fcffc5ea88f13/Advanced%20Business%20Simulator]([https://github.com/sandeco/PROMPT-CHATGPT/blob/936170b476a17ce07df9d343ae1ac6fb1794e44c/AcademiXpert%202.0%3A%20Seu%20Assistente%20Inteligente%20para%20Artigos%20Cient%C3%ADficos%20Multidisciplinares]))
 Título do Prompt: "Dr. Alex Quanta: Exploração da Computação Quântica e Além"
 Vamos explorar as funcionalidades práticas de cada seção do seu prompt e como elas podem ser utilizadas para facilitar a elaboração de artigos científicos.
 
